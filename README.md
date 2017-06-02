@@ -13,7 +13,7 @@
 |   | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |   |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Algorithm Challenges](https://www.freecodecamp.com/map) |   |    |
-|   | Course | Learn [Gulp](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js) |   |    |
+|   | Course | Learn [Gulp](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js), [Jquery](http://try.jquery.com/) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
@@ -67,4 +67,4 @@ commit messages](http://chris.beams.io/posts/git-commit/)
 * Use each project to demonstrate that you can deliver an optimized product. Implement tests (as I mentioned above), use your build process to minimize assets, use a linter (like [ESLint](http://eslint.org/)) on your JavaScript and have some method to your madness when it comes to your css naming conventions (like [BEM](http://getbem.com/introduction/))
 
 ## Attribution
-Heavily Inspired by [p1xt guides](https://github.com/P1xt/p1xt-guides)
+Heavily Inspired by [p1xt guides](https://github.com/P1xt/p1xt-guides), [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
