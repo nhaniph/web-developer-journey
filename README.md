@@ -1,15 +1,20 @@
 # The Web Developer Path
 
+## [My coding log](https://github.com/shovanch/100-days-of-code/blob/master/log.md)
+
 ## The Fundamentals
 
-| Progress | Type | Item | Project(s) | Notes |
+| Progress | Type | Item | Project(s) | Date |
 |------|------|------|------------|-------|
 |   | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |   |    |
-| **DONE**  | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |   |    |
+| **DONE**  | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |   |  ***MAY,2017***  |
 |   | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
 |   | Course | Learn the tools - [Chrome Devtools](http://discover-devtools.codeschool.com/), [Git](https://try.github.io/levels/1/challenges/1) |   |    |
 |   | Course | Learn [Sass](http://sass-lang.com/guide) |   |    |
 |   | Project | Refactor the portfolio site code using Sass |   |    |
+|   | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) |   |    |
+|   | Project | Build a single page website using Wordpress |   |    |
+|   | Project | Build a multipage blog using Wordpress |   |    |
 |   | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |   |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Algorithm Challenges](https://www.freecodecamp.com/map) |   |    |
@@ -34,7 +39,7 @@
 
 ## React
 
-| Progress | Type | Item | Project(s) | Notes |
+| Progress | Type | Item | Project(s) | Date |
 |------|------|------|------------|-------|
 |   | Course | [React For Beginners - Wes Bos](https://reactforbeginners.com/) (Paid) or [React Fundamentals - Tyler Mcginnis](https://reacttraining.com/online/react-fundamentals) |   |    |
 |   | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
@@ -43,7 +48,7 @@
 |   | Project | Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue |   |    |
 
 ## Backend
-| Progress | Type | Item | Project(s) | Notes |
+| Progress | Type | Item | Project(s) | Date |
 |------|------|------|------------|-------|
 |   | Course | [Learn Node - Wes Bos](nnode.com) (paid) OR Nodeschool.io [Tutorials](https://nodeschool.io/) |   |    |
 |   | Project | FCC Backend - [Timestamp Microservice](https://www.freecodecamp.com/challenges/timestamp-microservice) |   |    |
