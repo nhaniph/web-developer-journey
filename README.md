@@ -11,7 +11,8 @@
 |   | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
 |   | Course | Learn the tools - [Chrome Devtools](http://discover-devtools.codeschool.com/), [Git](https://try.github.io/levels/1/challenges/1) |   |    |
 |   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
-|   | Project | Refactor the portfolio site code using Sass |   |    |
+|   | Course | Learn flexbox from [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
+|   | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 |   | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) |   |    |
 |   | Project | Build a single page website using Wordpress |   |    |
 |   | Project | Build a multipage blog using Wordpress |   |    |
@@ -29,6 +30,7 @@
 |   | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) |   |    |
 |   | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) |   |    |
 |   | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
+|   | Milestone | FreeCodeCamp Front End Certificate |   |    |
 |   | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   |    |
 |   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
 |   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
@@ -45,7 +47,7 @@
 |   | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
 |   | Project |  FCC React Project - [Build a Recipe Box App](https://www.freecodecamp.com/challenges/build-a-recipe-box) |   |    |
 |   | Project |  Clone the Netflix interface using React, Angular, or Vue - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself. |   |    |
-|   | Project | Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue |   |    |
+|   | Project | Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React |   |    |
 
 ## Backend
 | Progress | Type | Item | Project(s) | Date |
@@ -61,6 +63,8 @@
 |   | Project | FCC Backend - [Chart the Stock Market](https://www.freecodecamp.com/challenges/chart-the-stock-market) |   |    |
 |   | Project | FCC Backend - [Manage a Book Trading Club](https://www.freecodecamp.com/challenges/manage-a-book-trading-club) |   |    |
 |   | Project | FCC Backend - [Build a Pinterest Clone](https://www.freecodecamp.com/challenges/build-a-pinterest-clone) |   |    |
+|   | Milestone | FreeCodeCamp BackEnd certificate |   |    |
+
 
 ## Goals
 
