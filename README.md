@@ -46,7 +46,7 @@
 |   | Course | [React For Beginners - Wes Bos](https://reactforbeginners.com/) (Paid) or [React Fundamentals - Tyler Mcginnis](https://reacttraining.com/online/react-fundamentals) |   |    |
 |   | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
 |   | Project |  FCC React Project - [Build a Recipe Box App](https://www.freecodecamp.com/challenges/build-a-recipe-box) |   |    |
-|   | Project |  Clone the Netflix interface using React, Angular, or Vue - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself. |   |    |
+|   | Project |  Clone the Netflix interface using React - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself. |   |    |
 |   | Project | Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React |   |    |
 
 ## Backend
