@@ -1,18 +1,21 @@
 # 100 Days Of Code - Log
 
-**Target :** ***Code for 1hour everyday for 100 days***
+**Target :** ***Code for atleast 1 hour everyday for 100 days***
 <!--### Day :
 **Todays's Progress** :
 
 **Thoughts** :
 
 **Thing(s) learned**:
--->
+ -->
+ ### Day 05 : June 18
+**Todays's Progress** : 30 minutes. Worked to implement the navbar using flexbox. Faced some difficulities, will work on smoothing them out.
 
-### Day 05 : June 17
-**Today's Progress** : 
+**Thoughts** : Will work tomorrow, on implementing the real things - navbar, layout. Its better to learn that way.
 
-**Thoughts** : 
+
+### June 17 : Didn't code today. Setup personalized email throught zohomail. It was worth the effort.
+
 
 ### Day 04 : June 16
 **Today's Progress** : Worked on following the flexbox articles. Tomorrow will start implementing the concepts.
