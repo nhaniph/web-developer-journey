@@ -8,7 +8,12 @@
 
 **Thing(s) learned**:
  -->
- ### Day 05 : June 18
+ ### Day 06 : June 19, Tuesday
+**Todays's Progress** : 30 minutes. Practiced with implementing layouts from flexbox.io course. 
+
+**Thoughts** : Will work on 2-3 layouts with then, moving on to learning SASS.
+
+ ### Day 05 : June 18, Monday
 **Todays's Progress** : 30 minutes. Worked to implement the navbar using flexbox. Faced some difficulities, will work on smoothing them out.
 
 **Thoughts** : Will work tomorrow, on implementing the real things - navbar, layout. Its better to learn that way.
