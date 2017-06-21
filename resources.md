@@ -43,6 +43,7 @@
 * [The Basics Of Git Explained by designing a new car](https://pixelpioneers.co/blog/2017/git-basics-explained-by-designing-a-new-car)
 * [Learn Google Analytics from Santa and his Elves](https://medium.freecodecamp.com/learn-google-analytics-from-santa-and-his-elves-59ea82fbd99a)
 * [User Experience explained in 5 minutes for newbie front end developers](https://medium.freecodecamp.com/user-experience-explained-in-5-minutes-for-newbie-front-end-developers-1293c1521407)
+* [React for Visual learners](https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-2-what-is-react-and-why-is-it-cool-d1f9bac69a63)
 
 
 
