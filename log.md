@@ -8,13 +8,23 @@
 
 **Thing(s) learned**:
  -->
- ### Day 06 : June 19, Tuesday
-**Todays's Progress** : 30 minutes. Practiced with implementing layouts from flexbox.io course. 
+ ### Day 08 : June 21, Wednesday
+**Today's Progress** : 30 minutes. Completed the exercises at flexbox froggy. Setup sublime text for SCSS. 
+
+**Thoughts** : Now, I can say that I understand flexbox concepts. Tomorrow, will work on flexbox app design and then, starting SASS.
+
+ ### Day 07 : June 20, Tuesday
+**Today's Progress** : 30 minutes. Completed Flexbox.io course.
+
+**Thoughts** : Progress is slow. Need to rev up.
+
+ ### Day 06 : June 19, Monday
+**Today's Progress** : 30 minutes. Practiced with implementing layouts from flexbox.io course. 
 
 **Thoughts** : Will work on 2-3 layouts with then, moving on to learning SASS.
 
- ### Day 05 : June 18, Monday
-**Todays's Progress** : 30 minutes. Worked to implement the navbar using flexbox. Faced some difficulities, will work on smoothing them out.
+ ### Day 05 : June 18, Sunday
+**Today's Progress** : 30 minutes. Worked to implement the navbar using flexbox. Faced some difficulities, will work on smoothing them out.
 
 **Thoughts** : Will work tomorrow, on implementing the real things - navbar, layout. Its better to learn that way.
 
