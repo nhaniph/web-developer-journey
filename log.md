@@ -8,6 +8,11 @@
 
 **Thing(s) learned**:
  -->
+ ### Day 09 : June 22, Thursday
+**Today's Progress** : 1.5 hours. Coded the flexbox app layout following the guide.
+
+**Thoughts** : The flexbox app layout is complete. There was a bit of reliance on the guide. To further learning, I will make another app layout using flexbox but of different design. Starting SASS from tomorrow. 
+ 
  ### Day 08 : June 21, Wednesday
 **Today's Progress** : 30 minutes. Completed the exercises at flexbox froggy. Setup sublime text for SCSS. 
 
