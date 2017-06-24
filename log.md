@@ -1,13 +1,30 @@
 # 100 Days Of Code - Log
 
+**Inspired by [Alexander Kallaway](https://twitter.com/ka11away) #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").**
+***
 **Target :** ***Code for atleast 1 hour everyday for 100 days***
+
+**Start Date :**  ***June 11***
+
+<!-- |  Start Date | End Date |
+| :------------: | :------------: |
+| June 11, 2017 | --------| 
 <!--### Day :
 **Todays's Progress** :
-
 **Thoughts** :
-
 **Thing(s) learned**:
  -->
+ ### Day 10 : June 23, Friday
+**Today's Progress** : 1 hour. Started SASS course on Treehouse. Learned about variables, mixin, include ...
+
+**Thoughts** : SASS seems like fresh breath. Adds some programming logic to CSS. Better code experience. Tomorrow, will finish the SASS course. Then, putting newly learnt flexbox and sass into by making new portfolio site
+
+**Thing(s) learned**:
+* Variables in Sass
+* Nested selector and ampersand for parent reference.
+* Using mixin and @include for reusable code blocks
+* @extend and placeholder selectors. Be careful of unneccesary selector expansion.
+ 
  ### Day 09 : June 22, Thursday
 **Today's Progress** : 1.5 hours. Coded the flexbox app layout following the guide.
 
@@ -182,7 +199,6 @@ Enjoying this whole process of learning very much. Aethistics and all this thing
 
 ***
 
-**Inspired by [Alexander Kallaway](https://github.com/Kallaway "Alexander Kallaway") #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").**
 
 
 
