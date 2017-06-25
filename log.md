@@ -14,7 +14,20 @@
 **Thoughts** :
 **Thing(s) learned**:
  -->
- ### Day 10 : June 23, Friday
+ ### Day 11 : June 25: Sunday
+**Todays's Progress** : :metal: Completed the SASS course at treehouse. Lots of things to understand. Will practice by implementing them for better understanding.
+
+**Thoughts** : Sass makes CSS acts like a programming language, with things like functions, variables, loops. While it takes some time to understand the big picture. It is a essential skill. Will use SASS on projects now on. Probably learn some gulp and use gulp as task runner. 
+
+**Thing(s) learned**:
+* Using partials for modular code
+* Making custom functions and color functions
+* Using mixin with null and keyword arguments - useful for flexbox syntaxes
+* Adding conditional logic using @if
+* Looping with @for to output columns
+* Storing values in maps 
+
+ ### Day 10 : June 24, Saturday
 **Today's Progress** : 1 hour. Started SASS course on Treehouse. Learned about variables, mixin, include ...
 
 **Thoughts** : SASS seems like fresh breath. Adds some programming logic to CSS. Better code experience. Tomorrow, will finish the SASS course. Then, putting newly learnt flexbox and sass into by making new portfolio site
@@ -24,6 +37,8 @@
 * Nested selector and ampersand for parent reference.
 * Using mixin and @include for reusable code blocks
 * @extend and placeholder selectors. Be careful of unneccesary selector expansion.
+ 
+ ### June 23 Missed. Internet was down :thumbsdown:
  
  ### Day 09 : June 22, Thursday
 **Today's Progress** : 1.5 hours. Coded the flexbox app layout following the guide.
