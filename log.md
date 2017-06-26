@@ -14,6 +14,11 @@
 **Thoughts** :
 **Thing(s) learned**:
  -->
+ ### Day 12 : June 26, Monday
+**Todays's Progress** : Light work today. Watched some Sass related videos on treehouse. Will start designing and coding the portfolio site tomorrow.
+
+**Thoughts** : There are lots of nitty-gritty details in Sass. But rather than only learning, its better to learn the basics and code and learn as needed along the way. So, thats the approach I'm gonna take. Will write a medium article tomorrow on First week experience of #100daysofcode.
+
  ### Day 11 : June 25: Sunday
 **Todays's Progress** : :metal: Completed the SASS course at treehouse. Lots of things to understand. Will practice by implementing them for better understanding.
 
