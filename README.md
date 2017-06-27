@@ -11,7 +11,7 @@
 |  **DONE** | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) | [Live Site](https://shovanch.com/my-portfolio/)  | ***10 JUN***   |
 | **DONE**  | Course | Learn [Git](https://try.github.io/levels/1/challenges/1) |  [Practice Repo](https://github.com/shovanch/practice-git) |  ***13 JUN***  |
 | **DONE**   | Course | Learn flexbox from [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) | [App layout](https://shovanch.com/flexbox-app-layout/)  | ***22 JUN***   |
-|   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
+| **DONE**   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |  ***26 JUN***  |
 |   | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 |   | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) |   |    |
 |   | Project | Build a single page website using Wordpress |   |    |
