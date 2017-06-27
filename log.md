@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-**Inspired by [Alexander Kallaway](https://twitter.com/ka11away) #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").**
+**Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").**
 ***
-**Target :** ***Code for atleast 1 hour everyday for 100 days***
+**Target :** ***Learn and Code for atleast 1 hour everyday for 100 days***
 
 **Start Date :**  ***June 11***
 
@@ -14,6 +14,12 @@
 **Thoughts** :
 **Thing(s) learned**:
  -->
+ ### Day 13 : June 27, Tuesday
+**Todays's Progress** : Designed the desktop view of the portfolio site. Will work on mobile view tomorrow and start coding it.
+
+**Thoughts** : This project will acts summation of all the learnings - HTML, CSS, SASS, Flexbox, so far. After this, will work through Wordpress a bit, just enough to make it work. And then finally, the JAVASCRIPT. This project does have some challenges like making those mac's reponsive, the slanted divs. Good for learning. Will write the medium article next week. On completion of third week of #100daysofcode and from there on write weekly. Exciting learning journey.
+
+**Link to work** : [Portfolio Design](http://i.imgur.com/LmKG2xb.png)
  ### Day 12 : June 26, Monday
 **Todays's Progress** : Light work today. Watched some Sass related videos on treehouse. Will start designing and coding the portfolio site tomorrow.
 
