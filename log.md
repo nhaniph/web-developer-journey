@@ -12,15 +12,25 @@
 <!--### Day :
 **Todays's Progress** :
 **Thoughts** :
+**Link to work** :
 **Thing(s) learned**:
  -->
+### June 29 : Had an off day. 
+### Day 14 : June 28, Wednesday
+**Todays's Progress** : Made the boilerplate for projects. It would make starting projects very easy. As it would bypass stage  of starting from scratch and setting  everything - "A recipe of procrastination"
+
+**Thoughts** : Had been using a boilerplate for projects. But that was for only HTML, CSS. This time added gulp tasks for SASS, BrowserSync, Autoprefix, Sourcemaps. Been using Livestyle for LiveReloading CSS, but with SASS, that wasn't working so, added BrowserSync. There had been some hiccup while setting up. Looked up on web , at the end done it. Its time to work on projects.
+
+**Link to work** : [Boilerplate for Front end projects](https://github.com/shovanch/project-boilerplate)
+
  ### Day 13 : June 27, Tuesday
 **Todays's Progress** : Designed the desktop view of the portfolio site. Will work on mobile view tomorrow and start coding it.
 
 **Thoughts** : This project will acts summation of all the learnings - HTML, CSS, SASS, Flexbox, so far. After this, will work through Wordpress a bit, just enough to make it work. And then finally, the JAVASCRIPT. This project does have some challenges like making those mac's reponsive, the slanted divs. Good for learning. Will write the medium article next week. On completion of third week of #100daysofcode and from there on write weekly. Exciting learning journey.
 
 **Link to work** : [Portfolio Design](http://i.imgur.com/LmKG2xb.png)
- ### Day 12 : June 26, Monday
+
+### Day 12 : June 26, Monday
 **Todays's Progress** : Light work today. Watched some Sass related videos on treehouse. Will start designing and coding the portfolio site tomorrow.
 
 **Thoughts** : There are lots of nitty-gritty details in Sass. But rather than only learning, its better to learn the basics and code and learn as needed along the way. So, thats the approach I'm gonna take. Will write a medium article tomorrow on First week experience of #100daysofcode.
@@ -49,7 +59,7 @@
 * Using mixin and @include for reusable code blocks
 * @extend and placeholder selectors. Be careful of unneccesary selector expansion.
  
- ### June 23 Missed. Internet was down :thumbsdown:
+ ### June 23 : Missed. Internet was down :thumbsdown:
  
  ### Day 09 : June 22, Thursday
 **Today's Progress** : 1.5 hours. Coded the flexbox app layout following the guide.
