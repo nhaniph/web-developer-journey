@@ -15,6 +15,7 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+### June 30 : Another one. Resistance  is coming back strong again. Fight off!! :punch: . Lets start the new month and second half of 2017 on a positive note.
 ### June 29 : Had an off day. 
 ### Day 14 : June 28, Wednesday
 **Todays's Progress** : Made the boilerplate for projects. It would make starting projects very easy. As it would bypass stage  of starting from scratch and setting  everything - "A recipe of procrastination"
