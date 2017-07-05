@@ -15,11 +15,18 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 16 : July 5, Wednesday
+ **Todays's Progress** : Missed two days in between. This had not been a week I wanted, but we all had our obstacles. I am back. Worked on the portfolio-two project. Hoping to finish this project by tomorrow. 
+
+**Thoughts** : Up and down and up and down.. its time to make some upppppps.. :chart_with_upwards_trend:
+
+### July 3 & 4 : Missed.
+ 
  ### Day 15 : July 2, Sunday
  
 **Todays's Progress** : Started the portfolio-two project. Worked on the HTML markup.
 
-**Thoughts** : There had been some obstacles in the way. Mentally. But, the journey must go on and on and on. Obstacle is the way/
+**Thoughts** : There had been some obstacles in the way. Mentally. But, the journey must go on and on and on. Obstacle is the way.
 
 ### July 1 : Missed. :disappointed:
 ### June 30 : Another one. Resistance  is coming back strong again. Fight off!! :punch: . Lets start the new month and second half of 2017 on a positive note.
