@@ -15,6 +15,13 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ## Day 17 : July 7, Friday
+ **Todays's Progress** : Today worked on the portfolio-two site. the mobile view is nearly ready. Working on the clip path for the slanted effect. Got the CS50 certificate. Great achievemnet. That was an really life changing course. Building up the basics of CS.
+
+**Thoughts** : Horrible week this has been. Lots of missed. Probably the problem is I'm focusing too much on the project. THe optimal approach would be to just focus on sit and code for 1 hour daily. That's it. Its the better way.
+
+ ### July 6 : Missed.
+ 
  ### Day 16 : July 5, Wednesday
  **Todays's Progress** : Missed two days in between. This had not been a week I wanted, but we all had our obstacles. I am back. Worked on the portfolio-two project. Hoping to finish this project by tomorrow. 
 
