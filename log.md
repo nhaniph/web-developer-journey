@@ -15,8 +15,14 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
- ## Day 17 : July 7, Friday
- **Todays's Progress** : Today worked on the portfolio-two site. the mobile view is nearly ready. Working on the clip path for the slanted effect. Got the CS50 certificate. Great achievemnet. That was an really life changing course. Building up the basics of CS.
+ ### Day 18 : July 8, Saturday
+ 
+**Todays's Progress** : Coded for 1 hour. The portfolio-two project is nearly finished (98%). Worked on desktop view today.
+
+**Thoughts** : Its looking good enough. Experimented with colors with this project. Stayed with gray as primary color and shades  of it. Used single font family to simplify the design process. Overall its a good experience. One thing need to work on, making the coding habit at a consistent time early in the day, rather than till the late night. So far, so good. Will write a medium article on monday about journey so far of first 20 days. 
+
+ ### Day 17 : July 7, Friday
+ **Todays's Progress** : Coded for 1 hour. Today worked on the portfolio-two site. the mobile view is nearly ready. Working on the clip path for the slanted effect. Got the CS50 certificate. Great achievemnet. That was an really life changing course. Building up the basics of CS.
 
 **Thoughts** : Horrible week this has been. Lots of missed. Probably the problem is I'm focusing too much on the project. THe optimal approach would be to just focus on sit and code for 1 hour daily. That's it. Its the better way.
 
