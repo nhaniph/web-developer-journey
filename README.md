@@ -11,8 +11,8 @@
 |  **DONE** | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) | [Live Site](https://shovanch.com/my-portfolio/)  | ***10 JUN***   |
 | **DONE**  | Course | Learn [Git](https://try.github.io/levels/1/challenges/1) |  [Practice Repo](https://github.com/shovanch/practice-git) |  ***13 JUN***  |
 | **DONE**   | Course | Learn flexbox from [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) | [App layout](https://shovanch.com/flexbox-app-layout/)  | ***22 JUN***   |
-| **DONE**   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |  ***26 JUN***  |
-|   | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
+| **DONE**   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) | -----  |  ***26 JUN***  |
+| **DONE**  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass | [Site link](https://shovanch.com/portfolio-two/)  |  ***8 JUL***  |
 |   | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) |   |    |
 |   | Project | Build a single page website using Wordpress |   |    |
 |   | Project | Build a multipage blog using Wordpress |   |    |
@@ -20,7 +20,7 @@
 |   | Course | Learn [Chrome Devtools](http://discover-devtools.codeschool.com/)|   |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Algorithm Challenges](https://www.freecodecamp.com/map) |   |    |
-|   | Course | Learn [Gulp](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js), [Jquery](http://try.jquery.com/) |   |    |
+|   | Course | Learn [Gulp](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
