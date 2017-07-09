@@ -15,9 +15,21 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 19 : July 9, Sunday
+ 
+**Todays's Progress** : FInished and published the portfolio project late last night. Today started Wordpress course on Treehouse.com . Gone over the basics, setup XAMPP for local development.
+
+**Thoughts** : Taking a slight diversion from front end path. Want to learn Wordpress. It has a great demand in Freelancing. Also, it's easy to create a website in it quick depending on use case. Neccesary Skills. After doing with Wordpress, will start Javascript.
+
+**Thing(s) learned**:
+* Setting database and user for wordpress
+* Categories and Tags
+ 
  ### Day 18 : July 8, Saturday
  
 **Todays's Progress** : Coded for 1 hour. The portfolio-two project is nearly finished (98%). Worked on desktop view today.
+
+**Link to work** : [Portfolio Project](https://shovanch.com/portfolio-two/)
 
 **Thoughts** : Its looking good enough. Experimented with colors with this project. Stayed with gray as primary color and shades  of it. Used single font family to simplify the design process. Overall its a good experience. One thing need to work on, making the coding habit at a consistent time early in the day, rather than till the late night. So far, so good. Will write a medium article on monday about journey so far of first 20 days. 
 
