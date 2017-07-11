@@ -15,6 +15,12 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 20 : July 11, Tuesday
+ **Todays's Progress** : No coding today. Drafted the medium article. 
+ 
+**Thoughts** There's been a lot of off days. Need to focus on consistency.
+
+ ### July 10 , Monday : Off day.
  ### Day 19 : July 9, Sunday
  
 **Todays's Progress** : FInished and published the portfolio project late last night. Today started Wordpress course on Treehouse.com . Gone over the basics, setup XAMPP for local development.
