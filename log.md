@@ -15,10 +15,20 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 21 : July 12, Wednesday
+**Todays's Progress** : Continued working on Wordpress course on Treehouse
+
+**Thoughts** : Need to accelerate learning. Progress is quite slow.
+
+**Thing(s) learned**:
+* Custom post types
+* Managing media in Wordpress
+
  ### Day 20 : July 11, Tuesday
- **Todays's Progress** : No coding today. Drafted the medium article. 
+ **Todays's Progress** : No coding today. Wrote and published the medium article. 
  
 **Thoughts** There's been a lot of off days. Need to focus on consistency.
+**Link to work** : [Article](https://medium.com/@shovanchatterjee/100daysofcode-the-journey-of-first-3-weeks-3bccf2935c2c)
 
  ### July 10 , Monday : Off day.
  ### Day 19 : July 9, Sunday
