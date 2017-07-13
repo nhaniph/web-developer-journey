@@ -15,6 +15,22 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 23 : July 14 , Friday
+**Todays's Progress** :
+**Thoughts** :
+**Thing(s) learned**:
+
+### Day 22 : July 13, Thursday
+
+**Todays's Progress** : Going through the wordpress course. Setup VS Code for coding. Fixed the issue with Operator Mono font on it. Its good to have a backup editor.
+
+**Thoughts** : Need to do some coding. After wordpress, can't wait to code in Javascript.
+
+**Thing(s) learned**:
+* Wordpress Customizer
+* Themes and Plugins
+* User roles
+
  ### Day 21 : July 12, Wednesday
 **Todays's Progress** : Continued working on Wordpress course on Treehouse
 
@@ -28,6 +44,7 @@
  **Todays's Progress** : No coding today. Wrote and published the medium article. 
  
 **Thoughts** There's been a lot of off days. Need to focus on consistency.
+
 **Link to work** : [Article](https://medium.com/@shovanchatterjee/100daysofcode-the-journey-of-first-3-weeks-3bccf2935c2c)
 
  ### July 10 , Monday : Off day.
