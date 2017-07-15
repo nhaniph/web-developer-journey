@@ -15,10 +15,15 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
- ### Day 23 : July 14 , Friday
-**Todays's Progress** :
-**Thoughts** :
+ ### Day 23 : July 15 , Saturday
+**Todays's Progress** : Setup wordpress on a droplet using digital ocean. Its quite a long process. With syntax, syntax and more syntax. Didn't understand probably the 80% of it. But, followed the tutorial and got it done. Its quite a useful skill to have. Also, almost done with the Wordpress course on treehouse. Will start building the site from tomorrow.  
+
+**Thoughts** : Wordpress is near completion. Quite a great learning experience. Its time to apply the things learned. Then, moving to much awaited Javascript.
+
 **Thing(s) learned**:
+* Setting up LAMP stack and Wordpress in Digital Ocean
+
+### July 14, Friday : Missed  day. 
 
 ### Day 22 : July 13, Thursday
 
