@@ -15,6 +15,11 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 24 : July 16, Friday
+ **Today's Progress** : Its a wordpress day. Setup various themes. Started working on Dad's blog. The strucutre is all good. Adding some content and some tinkering, and it'll be ready to go live. 
+ 
+ **Thoughts** : Wordpress is quite tricky, untill you get your head around it. Tried many themes, there are all this prebuilt layouts and demos. It's a coginitive load. Finally, bought the X theme, will buy Jupiter, later. But for now, it's suffice. Its time to make some dummy sites for portfolio.
+ 
  ### Day 23 : July 15 , Saturday
 **Todays's Progress** : Setup wordpress on a droplet using digital ocean. Its quite a long process. With syntax, syntax and more syntax. Didn't understand probably the 80% of it. But, followed the tutorial and got it done. Its quite a useful skill to have. Also, almost done with the Wordpress course on treehouse. Will start building the site from tomorrow.  
 
