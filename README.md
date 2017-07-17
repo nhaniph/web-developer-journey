@@ -20,7 +20,7 @@
 |   | Course | Learn [Chrome Devtools](http://discover-devtools.codeschool.com/)|   |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Algorithm Challenges](https://www.freecodecamp.com/map) |   |    |
-|   | Course | Learn [Gulp](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js) |   |    |
+|   | Course | Learn [Gulp](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js), AJAX |   |    |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
