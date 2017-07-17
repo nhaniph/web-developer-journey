@@ -15,6 +15,12 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 25 : July 17, Saturday
+ **Today's Progress** : Working on to setup the restaurant site on Wordpress. Getting hang of the options and settings. Hopefully will be completed by tomorrow. 
+ 
+ **Thoughts** : Wordpress is a big headache. Its so slow..... I feel I could make the sites faster using just HTML & CSS. Still have to learn. 
+ Once the options are clear, Things would be easy.
+ 
  ### Day 24 : July 16, Friday
  **Today's Progress** : Its a wordpress day. Setup various themes. Started working on Dad's blog. The strucutre is all good. Adding some content and some tinkering, and it'll be ready to go live. 
  
