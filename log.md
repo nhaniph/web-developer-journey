@@ -15,13 +15,23 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
- ### Day 25 : July 17, Saturday
+ ### Day 27 : July 19, Wednesday
+**Todays's Progress** : Worked on the site. Not satisfied with the layout design. Hopefully, the site will completed by tomorrow. 
+
+**Thoughts** : Trying different themes.  Finally, found a good thing, Elementor. It looks promising. On the coding side, hadn't code on editor for a week. Once this wordpress stage pass, it will be a coding bonanza. Let it be..
+
+### Day 26 : July 18, Tuesday
+**Todays's Progress** : Working on trying to create the restaurant website. Tweaking with various settings and options. Understood about the header part. Thinking about how to create the desired content layout. 
+
+**Thoughts** : :sweat: Frustration all around. Wordpress is too important to skip. Willl learn about making the front end now, Custom theme development, SEO will come later.
+
+ ### Day 25 : July 17, Monday
  **Today's Progress** : Working on to setup the restaurant site on Wordpress. Getting hang of the options and settings. Hopefully will be completed by tomorrow. 
  
  **Thoughts** : Wordpress is a big headache. Its so slow..... I feel I could make the sites faster using just HTML & CSS. Still have to learn. 
  Once the options are clear, Things would be easy.
  
- ### Day 24 : July 16, Friday
+ ### Day 24 : July 16, Sunday
  **Today's Progress** : Its a wordpress day. Setup various themes. Started working on Dad's blog. The strucutre is all good. Adding some content and some tinkering, and it'll be ready to go live. 
  
  **Thoughts** : Wordpress is quite tricky, untill you get your head around it. Tried many themes, there are all this prebuilt layouts and demos. It's a coginitive load. Finally, bought the X theme, will buy Jupiter, later. But for now, it's suffice. Its time to make some dummy sites for portfolio.
