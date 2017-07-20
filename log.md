@@ -15,6 +15,12 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+### Day 28 : July 20, Thursday
+
+**Todays's Progress** : Worked on the header. Its looking great, responsive and all. 
+
+**Thoughts** : Finished the header part of the site after so much of delibaration. Happy with the result. Now, its time to do the content part. Been a great learning experience so far.
+
  ### Day 27 : July 19, Wednesday
 **Todays's Progress** : Worked on the site. Not satisfied with the layout design. Hopefully, the site will completed by tomorrow. 
 
