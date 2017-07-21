@@ -10,24 +10,30 @@
 | :------------: | :------------: |
 | June 11, 2017 | --------| 
 <!--### Day :
-**Todays's Progress** :
+**Today's Progress** :
 **Thoughts** :
 **Link to work** :
 **Thing(s) learned**:
  -->
+### Day 29 : July 21, Friday
+
+**Today's Progress** : Site work is nearly done. Need to add some touchup and then compressing the images & It will be ready to be live. Will finish tonight
+
+**Thoughts** : I really want this to be over. I am not enjoying this. Can't wait to do coding in the editor. Guess, thats my way. Just a little more. And then, its Javascript, the language  with logic.
+
 ### Day 28 : July 20, Thursday
 
-**Todays's Progress** : Worked on the header. Its looking great, responsive and all. 
+**Today's Progress** : Worked on the header. Its looking great, responsive and all. 
 
 **Thoughts** : Finished the header part of the site after so much of delibaration. Happy with the result. Now, its time to do the content part. Been a great learning experience so far.
 
  ### Day 27 : July 19, Wednesday
-**Todays's Progress** : Worked on the site. Not satisfied with the layout design. Hopefully, the site will completed by tomorrow. 
+**Today's Progress** : Worked on the site. Not satisfied with the layout design. Hopefully, the site will completed by tomorrow. 
 
 **Thoughts** : Trying different themes.  Finally, found a good thing, Elementor. It looks promising. On the coding side, hadn't code on editor for a week. Once this wordpress stage pass, it will be a coding bonanza. Let it be..
 
 ### Day 26 : July 18, Tuesday
-**Todays's Progress** : Working on trying to create the restaurant website. Tweaking with various settings and options. Understood about the header part. Thinking about how to create the desired content layout. 
+**Today's Progress** : Working on trying to create the restaurant website. Tweaking with various settings and options. Understood about the header part. Thinking about how to create the desired content layout. 
 
 **Thoughts** : :sweat: Frustration all around. Wordpress is too important to skip. Willl learn about making the front end now, Custom theme development, SEO will come later.
 
