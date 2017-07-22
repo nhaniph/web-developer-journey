@@ -13,9 +13,8 @@
 | **DONE**   | Course | Learn flexbox from [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) | [App layout](https://shovanch.com/flexbox-app-layout/)  | ***22 JUN***   |
 | **DONE**   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) | -----  |  ***26 JUN***  |
 | **DONE**  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass | [Site link](https://shovanch.com/portfolio-two/)  |  ***8 JUL***  |
-|   | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) |   |    |
-|   | Project | Build a single page website using Wordpress |   |    |
-|   | Project | Build a multipage blog using Wordpress |   |    |
+| **DONE**  | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) | -----  | ***15 JUL***    |
+| **DONE**  | Project | Build a website using Wordpress | [Site](http://fishnchips.tk)  |  ***22 JUL***  |
 |   | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |   |    |
 |   | Course | Learn [Chrome Devtools](http://discover-devtools.codeschool.com/)|   |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
