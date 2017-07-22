@@ -15,6 +15,15 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+### Day 30 : July 22, Saturday
+
+**Today's Progress** : :metal: Finally completed the Wordpress project. Made a digitalocean droplet and then host the site on it using serverpilot. 
+
+**Thoughts** : Feeling so relaxed :relieved:  . It was a great learning experience. Learned a lot about Wordpress. Will help a lot with freelancing; which I am planning to start from august. The site is looking great. Happy with the result. <br> 
+Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScript., eagerly waiting for it. Itching to code on editor. Made a roadmap, will stick to it. JS is an essential thing. So, I want to learn it really well, With solid base fundamentals. Will start the WatchNCode JS course. Lets the start The Jounrey.
+
+**Link to work** : [Fish-N-Chips](http://fishnchips.tk/)
+
 ### Day 29 : July 21, Friday
 
 **Today's Progress** : Site work is nearly done. Need to add some touchup and then compressing the images & It will be ready to be live. Will finish tonight
