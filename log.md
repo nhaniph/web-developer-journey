@@ -15,6 +15,20 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 31 : July 23, Sunday
+ 
+**Today's Progress** : :fire: Started WatchNCode Javascript course. Did array module.
+ 
+**Thoughts** : So, it begins. The WatchNCode JS course is really great, wll explained concepts. Having done the CS50 course, it helps with understanding of concepts like array. This course wouldn't take much long. Will done by this week.
+
+**Thing(s) learned**:
+* Adding array in JS
+* Printing variables value using console.log()
+* Adding new item to array using array.push()
+* Changing a already defined var value inside the array
+* Removing item from array using array.splice()
+
+
 ### Day 30 : July 22, Saturday
 
 **Today's Progress** : :metal: Finally completed the Wordpress project. Made a digitalocean droplet and then host the site on it using serverpilot. 
