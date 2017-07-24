@@ -5,16 +5,26 @@
 **Target :** ***Learn and Code for atleast 1 hour everyday for 100 days***
 
 **Start Date :**  ***June 11***
-
-<!-- |  Start Date | End Date |
-| :------------: | :------------: |
-| June 11, 2017 | --------| 
 <!--### Day :
 **Today's Progress** :
 **Thoughts** :
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 32 : July 24, Monday
+ 
+**Today's Progress** : Continuing with the WatchNCode course. Learned about Objects, booleans, for Loops, array  traversal using for loop.
+
+**Thoughts** : So, far the journey of learning Javascript has been smooth sailing. Previously learned  CS concepts coming handy. Tried doing some of the exercises of WatchNCode by my own. Did well. Looking forward to code more.
+
+**Link to work** : [Work on Codepen](https://codepen.io/shovanch/pen/ZJEQbV/)
+
+**Thing(s) learned**:
+* Objects and properties
+* Using an object within an array
+* Use of `this` to refer to a property within an object.
+* booleans and method to toggle them
+* `for` loop and array traversal using it.
  ### Day 31 : July 23, Sunday
  
 **Today's Progress** : :fire: Started WatchNCode Javascript course. Did array module.
@@ -23,10 +33,10 @@
 
 **Thing(s) learned**:
 * Adding array in JS
-* Printing variables value using console.log()
-* Adding new item to array using array.push()
+* Printing variables value using `console.log()`
+* Adding new item to array using `array.push()`
 * Changing a already defined var value inside the array
-* Removing item from array using array.splice()
+* Removing item from array using `array.splice()`
 
 
 ### Day 30 : July 22, Saturday
