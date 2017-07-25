@@ -11,6 +11,20 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+### Day 33 : July 25, Tuesday
+
+**Today's Progress** : 72% of the WatchNCode course complete. Today, had a great run. Did Datatype, HTML & DOM, Debugger, User input modules.
+
+**Thoughts** : Tomorrow, had my practical CS exam, yet all I wanted to do is code webdev. SLowly reaching that stage. Finally, take a leap out of console, in the course. Worked with the DOM. The big picture is getting cleared. I am having that feeling when you can feel that you make execute an idea into code. Hopefully, the course will be completed by tomorrow. Then, after making the logic right, will make nice UI for the app.
+
+**Link to work** : [Work on Codepen](https://codepen.io/shovanch/pen/ZJEQbV/)
+
+**Thing(s) learned**:
+* Datatypes and comparisons: Primitives and Objects
+* HTML & DOM: how  the browser build up the DOM from code
+* Debugging a script
+* How to take user input  and then execute a function accordingly using `addEventListener`
+
  ### Day 32 : July 24, Monday
  
 **Today's Progress** : Continuing with the WatchNCode course. Learned about Objects, booleans, for Loops, array  traversal using for loop.
