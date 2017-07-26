@@ -11,6 +11,8 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+### July 26, Wednesday : Had exam, so had to took an offday. Will continue tomorrow.
+
 ### Day 33 : July 25, Tuesday
 
 **Today's Progress** : 72% of the WatchNCode course complete. Today, had a great run. Did Datatype, HTML & DOM, Debugger, User input modules.
