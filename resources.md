@@ -45,6 +45,11 @@
 * [User Experience explained in 5 minutes for newbie front end developers](https://medium.freecodecamp.com/user-experience-explained-in-5-minutes-for-newbie-front-end-developers-1293c1521407)
 * [React for Visual learners](https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-2-what-is-react-and-why-is-it-cool-d1f9bac69a63)
 
+### Design
+* [Fundamentals of Design](https://medium.freecodecamp.org/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda?ref=quuu)
+* [7 Rules for creating gorgeuos UI - Part1](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
+* [7 Rules for creating gorgeuos UI - Part2](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)
+* [UI Design Principles](https://medium.com/@oymanezzat/ui-design-famous-principles-41269344dd7b)
 
 
 
