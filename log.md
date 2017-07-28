@@ -11,6 +11,30 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 35 : July 28, Friday
+ 
+**Today's Progress** : Working on the delete button module of the todoList project in WatchNCode
+  
+**Thoughts** : Will complete the course by tonight. Learned a lot of things. After this , will work on making a nice UI for the project.
+
+**Link to work** : [Work on Codepen](https://codepen.io/shovanch/pen/ZJEQbV/)
+
+**Thing(s) learned**:
+* `parentNode`
+* `event.target` properties
+
+### Day 34 : July 27, Thursday
+**Today's Progress** : Did light coding today. Worked on the functions and escape from the console module.
+
+**Thoughts** : Things going well
+
+**Link to work** : [Work on Codepen](https://codepen.io/shovanch/pen/ZJEQbV/)
+
+**Thing(s) learned**: 
+* Inserting elements into DOM
+* HigherOrder functions and Callback functions
+* `.addEventListener()` , `setTimeOut()`, `forEach()` functions
+
 ### July 26, Wednesday : Had exam, so had to took an offday. Will continue tomorrow.
 
 ### Day 33 : July 25, Tuesday
