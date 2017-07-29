@@ -11,6 +11,15 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 36 : July 29, Saturday
+ 
+**Today's Progress** : :fire: YEE,  Completed the WatchNCode JS course. There was the last module, understanding `this` . Did that today. :v:
+
+**Thoughts** : So, it's done. The journey with JS started great. Learned a lot of things in the course. Mainly the fundamentals. Will work on the FCC JS challenges and read Eloquent JS now, After that will put the TodoList UI into action.
+
+**Thing(s) learned**:
+* Cases where the `this` keyword can be used
+
  ### Day 35 : July 28, Friday
  
 **Today's Progress** : Working on the delete button module of the todoList project in WatchNCode
