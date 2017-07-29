@@ -15,11 +15,11 @@
 | **DONE**  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass | [Site link](https://shovanch.com/portfolio-two/)  |  ***8 JUL***  |
 | **DONE**  | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) | -----  | ***15 JUL***    |
 | **DONE**  | Project | Build a website using Wordpress | [Site](http://fishnchips.tk)  |  ***22 JUL***  |
-|   | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |   |    |
+| **DONE** | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |   |  ***29 JUL***  |
 |   | Course | Learn [Chrome Devtools](http://discover-devtools.codeschool.com/)|   |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Algorithm Challenges](https://www.freecodecamp.com/map) |   |    |
-|   | Course | Learn [Gulp](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js), AJAX |   |    |
+|   | Course | Learn AJAX |   |    |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
