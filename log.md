@@ -11,6 +11,17 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 37 : July 30, Sunday
+ 
+**Today's Progress** : Started JS tuts on FreeCodeCamp beta to get a idea about the basic fundamentals. Completed the JS part. Now, working through data structures part.
+
+**Thoughts** : Thought that, would complete the Basic algos today. but, didn't happen. Will start from tomorrow. Want to speedrun through and get started with the projects.
+
+**Thing(s) learned**:
+* JS basics - variables, operators, loop, condition, functions
+* String manipulation
+* Using array and objects
+
  ### Day 36 : July 29, Saturday
  
 **Today's Progress** : :fire: YEE,  Completed the WatchNCode JS course. There was the last module, understanding `this` . Did that today. :v:
