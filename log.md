@@ -11,6 +11,19 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 39 : August 1, Tuesday
+ **Today's Progress** : Read first two chapters of Eloquent Javascript - Values and Program Structure
+ 
+ **Thoughts** : Not much work today. Took a break. Gave myself a treat for coming this far. Watched Dunkirk. Great Experience. Hoping the complete the challenges and learn Ajax and DOM from treehouse this week. Start the projects from monday. Lets see.
+ 
+ ### Day 38 : July 31, Monday
+ **Today's Progress** : Completed the debugging module of FCC. Started the Basic algorithm challenges. Did 3.
+ 
+ **Thoughts** : The challenges are quite tough. Its good for learning. "When it gets tough, You get tougher".. :fire:
+ 
+ **Thing(s) learned** :
+ * How to debug code in console
+ * `array.split()` `.join()` method
  ### Day 37 : July 30, Sunday
  
 **Today's Progress** : Started JS tuts on FreeCodeCamp beta to get a idea about the basic fundamentals. Completed the JS part. Now, working through data structures part.
