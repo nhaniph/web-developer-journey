@@ -11,6 +11,24 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+
+ ### Day 41 : August 3, Thursday
+**Today's Progress** : Completed 1 algorithm challenge on FCC- Truncate a string.
+
+**Thoughts** : Lots of procrastination. Need to add structure to learning for discipline, time bound work. From tomorrow, will work with Pomodoro :tomato: 
+
+**Link to work** : [FreeCodeCamp Algorithms](https://github.com/shovanch/FCC-algorithm-solutions)
+
+**Thing(s) learned**:
+* `string.slice()` method
+
+ ### Day 40 : August 2, Wednesday
+**Today's Progress** : Completed two algorithm challenges on FreeCodeCamp - Return largest number in an array and Repeat a string.
+
+**Thoughts** : Moving very slow. Hope to complete the Algo challenges by this week.
+
+**Link to work** : [FreeCodeCamp Algorithms](https://github.com/shovanch/FCC-algorithm-solutions)
+
  ### Day 39 : August 1, Tuesday
  **Today's Progress** : Read first two chapters of Eloquent Javascript - Values and Program Structure
  
