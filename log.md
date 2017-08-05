@@ -11,6 +11,20 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+### August 5, Saturday (OFF DAY):  
+Kinda off day. Went to my first meetup, it was a great experience. Learned about new things also some valuable advices. Worked on the Mutations algorithm challenge, Not finish though.
+
+### Day 42 : August 4, Friday
+**Today's Progress** : Worked through the function chapter of Eloquent JS, exercises remaining. Did 3 FCC algo challenges - Chunkey Monkey, Slasher Flick, Falsy Bouncer.
+
+**Thoughts** : Feels great worked through the problems step by step and getting to the solution. Like a detective. :mag: Eager to start learning the DOM and work on the projects.
+
+**Link to work** : [FreeCodeCamp Algorithms](https://github.com/shovanch/FCC-algorithm-solutions)
+
+**Thing(s) learned**:
+* `array.filter()` method
+* `array.splice()`
+* `array.push()`
 
  ### Day 41 : August 3, Thursday
 **Today's Progress** : Completed 1 algorithm challenge on FCC- Truncate a string.
