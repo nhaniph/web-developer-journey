@@ -11,6 +11,22 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+### Day 43 : August 7, Monday
+**Today's Progress** :
+* Completed Objects,arrays & 3/4 of DOM module at Treehouse
+* Setup semi-standard for linting in ST3 and VSCode
+
+**Thing(s) learned** :
+* Selecting elements in DOM using `document.getElementBy..` method
+* Making changes to the DOM using `innerHTML` `textContent` method
+* Styling elements 
+* Creating new elements and Adding them to DOM using `document.createElement()` , `node.appendChild()` method
+
+**Thoughts** : Learnt about DOM and its uses today. Doesn't look too tough. Probably finish the module by tonight. Then. AJAX. Looking forward to start working on the projects.
+
+**Link to work** : [Treehouse DOM Practice](https://codepen.io/shovanch/pen/gxgZGR)
+
+### August 6, Sunday (OFF DAY) :disappointed:
 ### August 5, Saturday (OFF DAY):  
 Kinda off day. Went to my first meetup, it was a great experience. Learned about new things also some valuable advices. Worked on the Mutations algorithm challenge, Not finish though.
 
