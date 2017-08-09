@@ -16,14 +16,14 @@
 | **DONE**  | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) | -----  | ***15 JUL***    |
 | **DONE**  | Project | Build a website using Wordpress | [Site](http://fishnchips.tk)  |  ***22 JUL***  |
 | **DONE** | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |   |  ***29 JUL***  |
-|   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
+|   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) [Continued Reading...]|   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |   | Course | Learn AJAX, DOM manipulation |   |    |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
-|   | Course | Learn ES6 - Wes Bos's [ES6 for Everyone](https://es6.io/) (paid) OR [ES6 by Egghead.io](https://egghead.io/courses/learn-es6-ecmascript-2015) | 
+|   | Course | Learn ES6 - Wes Bos's [ES6 for Everyone](https://es6.io/) | 
 |   | Course | [Javascript30](https://javascript30.com/) |   |    |
 |   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |   | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) |   |    |
@@ -31,6 +31,7 @@
 |   | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) |   |    |
 |   | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
 |   | Milestone | FreeCodeCamp Front End Certificate |   |    |
+|   | Course | [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) |   | 
 |   | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   |    |
 |   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
 |   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
@@ -43,7 +44,7 @@
 
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | [React For Beginners - Wes Bos](https://reactforbeginners.com/) (Paid) or [React Fundamentals - Tyler Mcginnis](https://reacttraining.com/online/react-fundamentals) |   |    |
+|   | Course | [React For Beginners - Wes Bos](https://reactforbeginners.com/) or [React Fundamentals - Tyler Mcginnis](https://reacttraining.com/online/react-fundamentals) |   |    |
 |   | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
 |   | Project |  FCC React Project - [Build a Recipe Box App](https://www.freecodecamp.com/challenges/build-a-recipe-box) |   |    |
 |   | Project |  Clone the Netflix interface using React - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself. |   |    |
@@ -52,7 +53,7 @@
 ## Backend
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | [Learn Node - Wes Bos](nnode.com) (paid) OR Nodeschool.io [Tutorials](https://nodeschool.io/) |   |    |
+|   | Course | [Learn Node - Wes Bos](nnode.com) OR Nodeschool.io [Tutorials](https://nodeschool.io/) |   |    |
 |   | Project | FCC Backend - [Timestamp Microservice](https://www.freecodecamp.com/challenges/timestamp-microservice) |   |    |
 |   | Project | FCC Backend - [Request Header Parser Microservice](https://www.freecodecamp.com/challenges/request-header-parser-microservice) |   |    |
 |   | Project | FCC Backend - [URL Shortener Microservice](https://www.freecodecamp.com/challenges/url-shortener-microservice) |   |    |
