@@ -11,6 +11,32 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 45 : August 11, Friday
+**Today's Progress** : Working on the DOM scripting course on Treehouse. Learning a  lot of things. Hoping to finish by tonight.
+
+**Thoughts** : Learning how to manipulate elements and basic event behaviour. Contrast with object method from watchNcode, great to know the both ways.
+
+**Link to work** : [RSVP Dom Project](https://codepen.io/shovanch/pen/OjmBNO)
+
+**Thing(s) learned**:
+* Changing element from edit mode to save mode
+* Filtering out elements based on response
+
+### Day 44 : August 10, Thursday
+**Today's Progress** : Started the DOM- RSVP app project on Treehouse. Did the first module.
+
+**Thoughts** : After doing this course. Will start working on the TODO app project.
+
+**Link to work** : [RSVP Dom Project](https://codepen.io/shovanch/pen/OjmBNO)
+
+**Thing(s) learned** : 
+* `event.preventDefault()` 
+* `submit` and `change` event
+* checked property of checkbox element
+
+### August 8 - 9 (Missed)
+Procrastination hits hard. But, I will strike back with greater force this time. 
+
 ### Day 43 : August 7, Monday
 **Today's Progress** :
 * Completed Objects,arrays & 3/4 of DOM module at Treehouse
