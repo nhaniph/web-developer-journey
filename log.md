@@ -15,7 +15,8 @@
 **Today's Progress** : Working on the DOM scripting course on Treehouse. Learning a  lot of things. Hoping to finish by tonight.
 **Thoughts** : Learning how to manipulate elements and basic event behaviour. Contrast with object method from watchNcode, great to know the both ways.
 **Link to work** : [RSVP Dom Project](https://codepen.io/shovanch/pen/OjmBNO)-->
-
+### August 13, Sunday
+I wouldn't call it a full day. Got cold with heavy headache. Little learning today. Completed the remaining of the Objects and Array chapter. Took notes. Now, I have 5 notebook full of programming notes. Will come handy for future reference.
  ### Day 46 : August 12, Saturday
 **Today's Progress** : Completed the DOM Scripting project at Treehouse. Learned about refactoring code. Started the Objects and Array chapter of Eloqeunt JS. Heavy stuff.
 
