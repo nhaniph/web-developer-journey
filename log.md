@@ -15,12 +15,17 @@
 **Today's Progress** : Working on the DOM scripting course on Treehouse. Learning a  lot of things. Hoping to finish by tonight.
 **Thoughts** : Learning how to manipulate elements and basic event behaviour. Contrast with object method from watchNcode, great to know the both ways.
 **Link to work** : [RSVP Dom Project](https://codepen.io/shovanch/pen/OjmBNO)-->
-### Day 47 : August 15, Tuesday
+### Day 49 : August 16, Wednesday
+**Today's Progress** : Started the ToDo list project. Made a rough design on Figma. Wrote the user stores. Now, its time to implement them.
+
+**Thoughts** : Pretty excited about the project. This would be my first built-from-scratch JS project. Its going to be an awesome learning experience. Looking to finish at least the half of it by tomorrow.
+
+### Day 48 : August 15, Tuesday
 **Today's Progress** : Read the DOM chapter of Eloquent JS. Heavy stuff, lots of nitty gritty details here and there. Tough but great!
 
 **Thoughts** :  Doing great, although I think the pace could have been better. Will finish the next chapter, 'Events' by tonight. Will work on drafting the medium article tomorrow, probably.  Need to get my head around this JS stuffs. 
 
-### Day 46 : August 14, Monday
+### Day 47 : August 14, Monday
 **Today's Progress** : Read the Javascript and The Browser, Eloquent JS. 
 
 **Thoughts** : Approaching the halfway mark of 100daysofcode. So far, it has been great with occasional hiccups. Being a methodical learner, I am trying to work on the fundamentals first. I believe if the fundamentals are strong, learning works exponentially. After, finishing the Browser module of Eloquent JS. Will work on the todo app. Will practice what I have learned so far about JS. Then, AJAX and FCC projects. Excited! Coming out of the tutorial stage soon. 
