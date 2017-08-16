@@ -18,7 +18,7 @@
 | **DONE** | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) | [Course work](https://codepen.io/shovanch/full/ZJEQbV/) |  ***29 JUL***  |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) [Continued Reading...]|   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
-|   | Course | Learn DOM manipulation |   |    |
+| **DONE**  | Course | Learn DOM manipulation | [Course Project](https://codepen.io/shovanch/full/OjmBNO/)  |  ***15 AUG***  |
 |   | Project | Make a todo list webapp |   |    |
 |   | Course | Learn AJAX |   |    |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
