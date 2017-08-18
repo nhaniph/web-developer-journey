@@ -15,6 +15,8 @@
 **Today's Progress** : Working on the DOM scripting course on Treehouse. Learning a  lot of things. Hoping to finish by tonight.
 **Thoughts** : Learning how to manipulate elements and basic event behaviour. Contrast with object method from watchNcode, great to know the both ways.
 **Link to work** : [RSVP Dom Project](https://codepen.io/shovanch/pen/OjmBNO)-->
+### August 17, Thursday
+Another missed day. Need to keep track of missing days from now. Will see what went right and what went wrong  in the first 50 days. Then try to improve.
 ### Day 49 : August 16, Wednesday
 **Today's Progress** : Started the ToDo list project. Made a rough design on Figma. Wrote the user stores. Now, its time to implement them.
 
