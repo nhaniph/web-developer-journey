@@ -15,6 +15,15 @@
 **Today's Progress** : Working on the DOM scripting course on Treehouse. Learning a  lot of things. Hoping to finish by tonight.
 **Thoughts** : Learning how to manipulate elements and basic event behaviour. Contrast with object method from watchNcode, great to know the both ways.
 **Link to work** : [RSVP Dom Project](https://codepen.io/shovanch/pen/OjmBNO)-->
+### Day 50 : August 19, Saturday
+**Today's Progress** : Worked with the git real course at codeschool. They're having free weekend. Looking to do git and the JS advanced course. 
+
+**Thoughts** : So, Completed 50 days. This hasn't been smooth, there has been bumps here and there. But learning from those, looking forward to better the process.
+
+
+### August 18, Friday
+Miseed
+
 ### August 17, Thursday
 Another missed day. Need to keep track of missing days from now. Will see what went right and what went wrong  in the first 50 days. Then try to improve.
 ### Day 49 : August 16, Wednesday
