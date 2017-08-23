@@ -5,7 +5,8 @@
 **Target :** ***Learn and Code for atleast 1 hour everyday for 100 days***
 
 **Start Date :**  ***June 11***
-<!--### Day :
+<!--Day :
+------
 **Today's Progress** :
 **Thoughts** :
 **Link to work** :
@@ -15,6 +16,15 @@
 **Today's Progress** : Working on the DOM scripting course on Treehouse. Learning a  lot of things. Hoping to finish by tonight.
 **Thoughts** : Learning how to manipulate elements and basic event behaviour. Contrast with object method from watchNcode, great to know the both ways.
 **Link to work** : [RSVP Dom Project](https://codepen.io/shovanch/pen/OjmBNO)-->
+Day 52 : August 23, Wednesday
+------
+**Today's Progress** : Finally, started coding the todolist. Worked on showing date and adding list elements to the DOM
+
+**Thoughts** : Started the project. For now, I will be working on VS Code. ST is good, but VS Code is better. Hoping to complete 50% of the project by tonight.
+
+**Thing(s) learned**:
+* How to get local time and date using `Date` object and `getDate()`, `getDay()` method
+
 Day 51 : August 20, Sunday
 ------
 **Today's Progress** : Did more of the git course. Learned how to do PR request. Useful. 
