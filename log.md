@@ -16,6 +16,16 @@
 **Today's Progress** : Working on the DOM scripting course on Treehouse. Learning a  lot of things. Hoping to finish by tonight.
 **Thoughts** : Learning how to manipulate elements and basic event behaviour. Contrast with object method from watchNcode, great to know the both ways.
 **Link to work** : [RSVP Dom Project](https://codepen.io/shovanch/pen/OjmBNO)-->
+Day 54 : August 25, Friday
+------
+**Today's Progress** : Added the list element addition from textInput through DOM.
+
+**Thoughts** : Decided to go with vanilla checkbox. Added list elements, now.. what's left -  delete button, toggle todo views and we will be done with this project. 
+
+**Link to work** : [Todo Repo](https://github.com/shovanch/todo-list)
+
+**Thing(s) learned**: Coded what I already know.
+
 Day 53 : August 24, Thursday
 ------
 **Today's Progress** : Stuck with the project. Trying to have customized CSS checkbox for todo list. Lets see. 
@@ -24,7 +34,7 @@ Day 53 : August 24, Thursday
 
 **Link to work** : [Todo Repo](https://github.com/shovanch/todo-list)
 
-**Thing(s) learned**: Nothing today. Jump around to get customized checkbox. Without succes though. :disappointed:
+**Thing(s) learned**: Nothing today. Jump around to get customized checkbox. Without success though. :disappointed:
 
 Day 52 : August 23, Wednesday
 ------
