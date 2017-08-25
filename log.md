@@ -2,9 +2,9 @@
 
 **Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").**
 ***
-**Target :** ***Learn and Code for atleast 1 hour everyday for 100 days***
+**Target** : ***Learn and Code for atleast 1 hour everyday for 100 days***
 
-**Start Date :**  ***June 11***
+**Start Date** :  ***June 11***
 <!--Day :
 ------
 **Today's Progress** :
@@ -16,6 +16,16 @@
 **Today's Progress** : Working on the DOM scripting course on Treehouse. Learning a  lot of things. Hoping to finish by tonight.
 **Thoughts** : Learning how to manipulate elements and basic event behaviour. Contrast with object method from watchNcode, great to know the both ways.
 **Link to work** : [RSVP Dom Project](https://codepen.io/shovanch/pen/OjmBNO)-->
+Day 53 : August 24, Thursday
+------
+**Today's Progress** : Stuck with the project. Trying to have customized CSS checkbox for todo list. Lets see. 
+
+**Thoughts** : Hit a roadblock, thought about customizing the checkbox for the list. But it isnt as easy as I thought. The problem is with the linked input and label. Thinking to going for the simple checkbox and probably make it functional. Will deal with customizing the checkbox later.
+
+**Link to work** : [Todo Repo](https://github.com/shovanch/todo-list)
+
+**Thing(s) learned**: Nothing today. Jump around to get customized checkbox. Without succes though. :disappointed:
+
 Day 52 : August 23, Wednesday
 ------
 **Today's Progress** : Finally, started coding the todolist. Worked on showing date and adding list elements to the DOM
@@ -30,16 +40,14 @@ Day 51 : August 20, Sunday
 **Today's Progress** : Did more of the git course. Learned how to do PR request. Useful. 
 
 **Thoughts** : Now, going to postpone the learning. Lets do the project.
-***
+<!-- ***
 ### Thoughts on Completing 50days
+***-->
 
-
-***
-
-### Day 50 : August 19, Saturday
+### Day 50 : August 19, Saturday :tada::tada::tada:
 **Today's Progress** : Worked with the git real course at codeschool. They're having free weekend. Looking to do git and the JS advanced course. 
 
-**Thoughts** : So, Completed 50 days. This hasn't been smooth, there has been bumps here and there. But learning from those, looking forward to better the process.
+**Thoughts** : So, Completed 50 days. This hasn't been smooth, there has been bumps here and there. But learning from those, looking forward to better the process. 
 
 
 ### August 18, Friday
