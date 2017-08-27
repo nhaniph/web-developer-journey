@@ -12,10 +12,21 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
-  <!--### Day 45 : August 11, Friday
-**Today's Progress** : Working on the DOM scripting course on Treehouse. Learning a  lot of things. Hoping to finish by tonight.
-**Thoughts** : Learning how to manipulate elements and basic event behaviour. Contrast with object method from watchNcode, great to know the both ways.
-**Link to work** : [RSVP Dom Project](https://codepen.io/shovanch/pen/OjmBNO)-->
+Day 55 : August 27, Sunday
+------
+**Today's Progress** : Implemented the basic functionalities of the todo list. Add, check off, delete. Show count and delete all left.
+
+**Thoughts** : Decided to change the user stories a bit. Going with the basic functions first. Will add others later. The project logic and JS code nearly finished. Tomorrow, will work on styling. and after that get on with AJAX. Excited to learn so, make some cool things using APIs.
+
+**Link to work** : [Todo Repo](https://github.com/shovanch/todo-list)
+
+**Thing(s) learned**: 
+* `element.classList` to get the classes of an element
+* using `toggle` to flip the class change back and forth.
+
+### August 26, Saturday
+Came home from college late in the evening. Too tired to code. So, give it a miss. Good thing, learned about C++ and stack in CS class. 
+
 Day 54 : August 25, Friday
 ------
 **Today's Progress** : Added the list element addition from textInput through DOM.
