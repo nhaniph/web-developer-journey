@@ -12,7 +12,15 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
- Day 56 : August 29, Tuesday
+Day 57 : August 30, Wednesday
+------
+**Today's Progress** : :fire:  Finally, completed the todolist app. Had long run with coding today. The styling part was left, did it.
+
+**Thoughts** : It was quite an experience. My first JS project from scratch. Faced quite many obstacles along the way. But, glad it is done. Happy with the result. The design has been implemented quite nicely. Next, is to learn AJAX. Make some projects using it. Then, ES6 and JS30. I'm particularly excited for JS30. Lots of good stuff learn there. Off we go!!
+
+**Link to work** : [Live site](https://shovanch.com/todo-list/) //  [Todo Repo](https://github.com/shovanch/todo-list)
+
+Day 56 : August 29, Tuesday
 ------
 **Today's Progress** : Implemented all the user stories for the todolist app. 
 
