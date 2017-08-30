@@ -12,6 +12,15 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ Day 56 : August 29, Tuesday
+------
+**Today's Progress** : Implemented all the user stories for the todolist app. 
+
+**Thoughts** : So, finally the JS part is done. Styling is not that hard. Will complete today and start AJAX on treehouse too.
+
+**Link to work** : [Todo Repo](https://github.com/shovanch/todo-list)
+
+
 Day 55 : August 27, Sunday
 ------
 **Today's Progress** : Implemented the basic functionalities of the todo list. Add, check off, delete. Show count and delete all left.
