@@ -19,7 +19,7 @@
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) [Continued Reading...]|   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 | **DONE**  | Course | Learn DOM manipulation | [Course Project](https://codepen.io/shovanch/full/OjmBNO/)  |  ***15 AUG***  |
-|   | Project | Make a todo list webapp |   |    |
+| **DONE**  | Project | Make a todo list webapp | [Site Link](https://shovanch.com/todo-list/)  |  ***30 AUG***  |
 |   | Course | Learn AJAX |   |    |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
