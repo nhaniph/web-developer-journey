@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log 💯
 
 **Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").**
 ***
@@ -12,6 +12,16 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+Day 58 : September 1, Friday
+------
+**Today's Progress** : Started AJAX course on treehouse. Completed the first module.
+
+**Thoughts** : Applied for the Chingu voyage 2. It's starting on Sept 21st. Hoping to get to a good level of knowledge with JS before that. Plan is AJAX -> Random Quotes Project + CSS transform & animations -> FCC algos + YDKJS: Up & Going -> ES6 and then finally JS30. Lets execute the plan. Code daily. Build the habit.
+
+**Thing(s) learned**:
+* How to make AJAX requests
+* GET and POST method
+
 Day 57 : August 30, Wednesday
 ------
 **Today's Progress** : :fire:  Finally, completed the todolist app. Had long run with coding today. The styling part was left, did it.
