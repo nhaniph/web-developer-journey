@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log 💯
+# 💯 100 Days Of Code - Log 
 
 **Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").**
 ***
@@ -12,6 +12,18 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+Day 59 : September 2, Saturday
+------
+**Today's Progress** : Near completion of AJAX course at treehouse. Learn about jquery methods to use AJAX
+
+**Thoughts** : Progressing forward smoothly. Learned about jqeury ajax methods. It made AJAX requests very simple. Its good to know jquery methods. But I will code with vanilla JS still. Hoping to finish the AJAX course tonight.
+
+**Link to work** : [AJAX code snippets](https://codepen.io/shovanch/pen/BdMMQe?editors=0010#0)
+
+**Thing(s) learned** :
+* `.load` method
+* `$.get(url,data, fallback)`, `$.getJSON()`, `$.post()` methods to use AJAX requests.
+
 Day 58 : September 1, Friday
 ------
 **Today's Progress** : Started AJAX course on treehouse. Completed the first module.
