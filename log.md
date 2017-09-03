@@ -12,6 +12,12 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+September 3, Sunday
+------
+**Today's Progress** : Not much coding today. Spent the day at college. Learnt about Queue datastructures, inheritance and constructors in C++. 
+
+**Thoughts** : Would not count today as a streak. Had a very tiring day.. Hoping to make some progress in the night. Probably, on the AJAX and CSS animations. 
+
 Day 59 : September 2, Saturday
 ------
 **Today's Progress** : Near completion of AJAX course at treehouse. Learn about jquery methods to use AJAX
