@@ -12,9 +12,17 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ -----------
+ ### Day 60 : September 6, Wednesday
+ 
+**Today's Progress** : Made the design for the Random Quotes Generator. Setup the github repo for the project. Worked on markup and base styles.
+
+**Thoughts** : Completed 2 months of #100DaysofCode. 40 days more to go. My target is 1) Complete JS30, 2) Get the FCC front-end certificate. Those are just a rough goal, most important thing is to code daily. Had hit some bumps along the way, but keep on continuing. I got a learning fatigue. That's when you just keep on learning things. less actually doing them. So, the focus is now to build the projects. Happy with the site design. Hoping to complete it by tomorrow. Should also write that JS project article, lets keep that into mind. 
+
+**Link to work** : [Random-quotes repo](https://github.com/shovanch/random-quote-site)
 
 ------------
-### September 4 - 5
+### September 4 - 5, Mon-Tuesday
 Couldn't code much. Had frequent problems with internet due to rain. CLean up the repos a bit. Learn about CSS transiton on treehouse. The learning phase is nearly at end. Minimum basics are done. Now, its time to put all that learning into building projects. Lets do it.
 
 ------------
