@@ -1,4 +1,4 @@
-# The Web Developer Path
+# Full-stack Web Developer Path
 
 ## [My coding log](https://github.com/shovanch/web-developer-path-my-progress/blob/master/log.md)
 
@@ -20,7 +20,8 @@
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 | **DONE**  | Course | Learn DOM manipulation | [Course Project](https://codepen.io/shovanch/full/OjmBNO/)  |  ***15 AUG***  |
 | **DONE**  | Project | Make a todo list webapp | [Site Link](https://shovanch.com/todo-list/)  |  ***30 AUG***  |
-|   | Course | Learn AJAX |   |    |
+| **DONE**  | Course | Learn AJAX |   |  ***5 SEPT***  |
+|   | Course | Learn CSS Grid |   |    |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
@@ -69,14 +70,11 @@
 |   | Milestone | FreeCodeCamp BackEnd certificate |   |    |
 
 
-## Goals
-
-* Goal: Contribute one pull request per month to an open source project of your choosing.
-* When you're working through a book, type out the example code and do all the exercises.
-* When you're working through a course, do all the assignments.
-* When you're building a Project, include a built process (like [gulp](http://gulpjs.com/)), include at least 5 automated tests ([Karma](https://karma-runner.github.io/1.0/index.html), [mocha](https://mochajs.org/), sinon, chai, jasmine, tape, whatever works for you), include a README.md file that clearly explains the project, and practice using [meaningful 
-commit messages](http://chris.beams.io/posts/git-commit/) 
-* Use each project to demonstrate that you can deliver an optimized product. Implement tests (as I mentioned above), use your build process to minimize assets, use a linter (like [ESLint](http://eslint.org/)) on your JavaScript and have some method to your madness when it comes to your css naming conventions (like [BEM](http://getbem.com/introduction/))
+## Extras
+* Learn about build tools like Gulp and include them in projects
+* Every week, write a medium post about that week's learnings.
+* Learn about linting. Use linters like ESLint for Javascript , Stylelint for CSS in your projects.
+* Learn about CSS conventions like BEM, SMACSS.
 
 ## Attribution
-Heavily Inspired by [p1xt guides](https://github.com/P1xt/p1xt-guides), [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
+Inspired by [p1xt guides](https://github.com/P1xt/p1xt-guides), [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
