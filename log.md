@@ -12,14 +12,23 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
-September 3, Sunday
-------
+
+------------
+### September 4 - 5
+Couldn't code much. Had frequent problems with internet due to rain. CLean up the repos a bit. Learn about CSS transiton on treehouse. The learning phase is nearly at end. Minimum basics are done. Now, its time to put all that learning into building projects. Lets do it.
+
+------------
+
+### September 3, Sunday
+
 **Today's Progress** : Not much coding today. Spent the day at college. Learnt about Queue datastructures, inheritance and constructors in C++. 
 
 **Thoughts** : Would not count today as a streak. Had a very tiring day.. Hoping to make some progress in the night. Probably, on the AJAX and CSS animations. 
 
-Day 59 : September 2, Saturday
-------
+------------
+
+### Day 59 : September 2, Saturday
+
 **Today's Progress** : Near completion of AJAX course at treehouse. Learn about jquery methods to use AJAX
 
 **Thoughts** : Progressing forward smoothly. Learned about jqeury ajax methods. It made AJAX requests very simple. Its good to know jquery methods. But I will code with vanilla JS still. Hoping to finish the AJAX course tonight.
@@ -30,8 +39,10 @@ Day 59 : September 2, Saturday
 * `.load` method
 * `$.get(url,data, fallback)`, `$.getJSON()`, `$.post()` methods to use AJAX requests.
 
-Day 58 : September 1, Friday
-------
+------------
+
+### Day 58 : September 1, Friday
+
 **Today's Progress** : Started AJAX course on treehouse. Completed the first module.
 
 **Thoughts** : Applied for the Chingu voyage 2. It's starting on Sept 21st. Hoping to get to a good level of knowledge with JS before that. Plan is AJAX -> Random Quotes Project + CSS transform & animations -> FCC algos + YDKJS: Up & Going -> ES6 and then finally JS30. Lets execute the plan. Code daily. Build the habit.
@@ -40,25 +51,30 @@ Day 58 : September 1, Friday
 * How to make AJAX requests
 * GET and POST method
 
-Day 57 : August 30, Wednesday
-------
+------------
+
+### Day 57 : August 30, Wednesday
+
 **Today's Progress** : :fire:  Finally, completed the todolist app. Had long run with coding today. The styling part was left, did it.
 
 **Thoughts** : It was quite an experience. My first JS project from scratch. Faced quite many obstacles along the way. But, glad it is done. Happy with the result. The design has been implemented quite nicely. Next, is to learn AJAX. Make some projects using it. Then, ES6 and JS30. I'm particularly excited for JS30. Lots of good stuff learn there. Off we go!!
 
 **Link to work** : [Live site](https://shovanch.com/todo-list/) //  [Todo Repo](https://github.com/shovanch/todo-list)
 
-Day 56 : August 29, Tuesday
-------
+------------
+
+### Day 56 : August 29, Tuesday
+
 **Today's Progress** : Implemented all the user stories for the todolist app. 
 
 **Thoughts** : So, finally the JS part is done. Styling is not that hard. Will complete today and start AJAX on treehouse too.
 
 **Link to work** : [Todo Repo](https://github.com/shovanch/todo-list)
 
+------------
 
-Day 55 : August 27, Sunday
-------
+### Day 55 : August 27, Sunday
+
 **Today's Progress** : Implemented the basic functionalities of the todo list. Add, check off, delete. Show count and delete all left.
 
 **Thoughts** : Decided to change the user stories a bit. Going with the basic functions first. Will add others later. The project logic and JS code nearly finished. Tomorrow, will work on styling. and after that get on with AJAX. Excited to learn so, make some cool things using APIs.
@@ -69,11 +85,15 @@ Day 55 : August 27, Sunday
 * `element.classList` to get the classes of an element
 * using `toggle` to flip the class change back and forth.
 
+------------
+
 ### August 26, Saturday
 Came home from college late in the evening. Too tired to code. So, give it a miss. Good thing, learned about C++ and stack in CS class. 
 
-Day 54 : August 25, Friday
-------
+------------
+
+### Day 54 : August 25, Friday
+
 **Today's Progress** : Added the list element addition from textInput through DOM.
 
 **Thoughts** : Decided to go with vanilla checkbox. Added list elements, now.. what's left -  delete button, toggle todo views and we will be done with this project. 
@@ -82,8 +102,10 @@ Day 54 : August 25, Friday
 
 **Thing(s) learned**: Coded what I already know.
 
-Day 53 : August 24, Thursday
-------
+------------
+
+### Day 53 : August 24, Thursday
+
 **Today's Progress** : Stuck with the project. Trying to have customized CSS checkbox for todo list. Lets see. 
 
 **Thoughts** : Hit a roadblock, thought about customizing the checkbox for the list. But it isnt as easy as I thought. The problem is with the linked input and label. Thinking to going for the simple checkbox and probably make it functional. Will deal with customizing the checkbox later.
@@ -92,8 +114,10 @@ Day 53 : August 24, Thursday
 
 **Thing(s) learned**: Nothing today. Jump around to get customized checkbox. Without success though. :disappointed:
 
-Day 52 : August 23, Wednesday
-------
+------------
+
+### Day 52 : August 23, Wednesday
+
 **Today's Progress** : Finally, started coding the todolist. Worked on showing date and adding list elements to the DOM
 
 **Thoughts** : Started the project. For now, I will be working on VS Code. ST is good, but VS Code is better. Hoping to complete 50% of the project by tonight.
@@ -101,23 +125,32 @@ Day 52 : August 23, Wednesday
 **Thing(s) learned**:
 * How to get local time and date using `Date` object and `getDate()`, `getDay()` method
 
-Day 51 : August 20, Sunday
-------
-**Today's Progress** : Did more of the git course. Learned how to do PR request. Useful. 
+------------
 
-**Thoughts** : Now, going to postpone the learning. Lets do the project.
+### Day 51 : August 20, Sunday
+
+**Today's Progress** : 
+- Did more of the git course. Learned how to do PR request. Useful. 
+
+**Thoughts** : 
+- Now, going to postpone the learning. Lets do the project.
+
 <!-- ***
 ### Thoughts on Completing 50days
 ***-->
+------------
 
 ### Day 50 : August 19, Saturday :tada::tada::tada:
 **Today's Progress** : Worked with the git real course at codeschool. They're having free weekend. Looking to do git and the JS advanced course. 
 
 **Thoughts** : So, Completed 50 days. This hasn't been smooth, there has been bumps here and there. But learning from those, looking forward to better the process. 
 
+------------
 
 ### August 18, Friday
-Miseed
+Missed
+
+------------
 
 ### August 17, Thursday
 Another missed day. Need to keep track of missing days from now. Will see what went right and what went wrong  in the first 50 days. Then try to improve.
@@ -126,16 +159,21 @@ Another missed day. Need to keep track of missing days from now. Will see what w
 
 **Thoughts** : Pretty excited about the project. This would be my first built-from-scratch JS project. Its going to be an awesome learning experience. Looking to finish at least the half of it by tomorrow.
 
+------------
+
 ### Day 48 : August 15, Tuesday
 **Today's Progress** : Read the DOM chapter of Eloquent JS. Heavy stuff, lots of nitty gritty details here and there. Tough but great!
 
 **Thoughts** :  Doing great, although I think the pace could have been better. Will finish the next chapter, 'Events' by tonight. Will work on drafting the medium article tomorrow, probably.  Need to get my head around this JS stuffs. 
+
+------------
 
 ### Day 47 : August 14, Monday
 **Today's Progress** : Read the Javascript and The Browser, Eloquent JS. 
 
 **Thoughts** : Approaching the halfway mark of 100daysofcode. So far, it has been great with occasional hiccups. Being a methodical learner, I am trying to work on the fundamentals first. I believe if the fundamentals are strong, learning works exponentially. After, finishing the Browser module of Eloquent JS. Will work on the todo app. Will practice what I have learned so far about JS. Then, AJAX and FCC projects. Excited! Coming out of the tutorial stage soon. 
 
+------------
 
 ### August 13, Sunday
 I wouldn't call it a full day. Got cold with heavy headache. Little learning today. Completed the remaining of the Objects and Array chapter. Took notes. Now, I have 5 notebook full of programming notes. Will come handy for future reference.
@@ -147,6 +185,8 @@ I wouldn't call it a full day. Got cold with heavy headache. Little learning tod
 
 **Link to work** : [RSVP Dom Project](https://codepen.io/shovanch/pen/OjmBNO)
 
+------------
+
  ### Day 45 : August 11, Friday
 **Today's Progress** : Working on the DOM scripting course on Treehouse. Learning a  lot of things. Hoping to finish by tonight.
 
@@ -157,6 +197,8 @@ I wouldn't call it a full day. Got cold with heavy headache. Little learning tod
 **Thing(s) learned**:
 * Changing element from edit mode to save mode
 * Filtering out elements based on response
+
+------------
 
 ### Day 44 : August 10, Thursday
 **Today's Progress** : Started the DOM- RSVP app project on Treehouse. Did the first module.
@@ -170,8 +212,12 @@ I wouldn't call it a full day. Got cold with heavy headache. Little learning tod
 * `submit` and `change` event
 * checked property of checkbox element
 
+------------
+
 ### August 8 - 9 (Missed)
 Procrastination hits hard. But, I will strike back with greater force this time. 
+
+------------
 
 ### Day 43 : August 7, Monday
 **Today's Progress** :
@@ -188,9 +234,16 @@ Procrastination hits hard. But, I will strike back with greater force this time.
 
 **Link to work** : [Treehouse DOM Practice](https://codepen.io/shovanch/pen/gxgZGR)
 
+------------
+
 ### August 6, Sunday (OFF DAY) :disappointed:
+
+------------
+
 ### August 5, Saturday (OFF DAY):  
 Kinda off day. Went to my first meetup, it was a great experience. Learned about new things also some valuable advices. Worked on the Mutations algorithm challenge, Not finish though.
+
+------------
 
 ### Day 42 : August 4, Friday
 **Today's Progress** : Worked through the function chapter of Eloquent JS, exercises remaining. Did 3 FCC algo challenges - Chunkey Monkey, Slasher Flick, Falsy Bouncer.
@@ -204,6 +257,8 @@ Kinda off day. Went to my first meetup, it was a great experience. Learned about
 * `array.splice()`
 * `array.push()`
 
+------------
+
  ### Day 41 : August 3, Thursday
 **Today's Progress** : Completed 1 algorithm challenge on FCC- Truncate a string.
 
@@ -214,6 +269,8 @@ Kinda off day. Went to my first meetup, it was a great experience. Learned about
 **Thing(s) learned**:
 * `string.slice()` method
 
+------------
+
  ### Day 40 : August 2, Wednesday
 **Today's Progress** : Completed two algorithm challenges on FreeCodeCamp - Return largest number in an array and Repeat a string.
 
@@ -221,10 +278,14 @@ Kinda off day. Went to my first meetup, it was a great experience. Learned about
 
 **Link to work** : [FreeCodeCamp Algorithms](https://github.com/shovanch/FCC-algorithm-solutions)
 
+------------
+
  ### Day 39 : August 1, Tuesday
  **Today's Progress** : Read first two chapters of Eloquent Javascript - Values and Program Structure
  
  **Thoughts** : Not much work today. Took a break. Gave myself a treat for coming this far. Watched Dunkirk. Great Experience. Hoping the complete the challenges and learn Ajax and DOM from treehouse this week. Start the projects from monday. Lets see.
+ 
+ ------------
  
  ### Day 38 : July 31, Monday
  **Today's Progress** : Completed the debugging module of FCC. Started the Basic algorithm challenges. Did 3.
@@ -234,6 +295,9 @@ Kinda off day. Went to my first meetup, it was a great experience. Learned about
  **Thing(s) learned** :
  * How to debug code in console
  * `array.split()` `.join()` method
+ 
+ ------------
+ 
  ### Day 37 : July 30, Sunday
  
 **Today's Progress** : Started JS tuts on FreeCodeCamp beta to get a idea about the basic fundamentals. Completed the JS part. Now, working through data structures part.
@@ -245,6 +309,8 @@ Kinda off day. Went to my first meetup, it was a great experience. Learned about
 * String manipulation
 * Using array and objects
 
+------------
+
  ### Day 36 : July 29, Saturday
  
 **Today's Progress** : :fire: YEE,  Completed the WatchNCode JS course. There was the last module, understanding `this` . Did that today. :v:
@@ -253,6 +319,8 @@ Kinda off day. Went to my first meetup, it was a great experience. Learned about
 
 **Thing(s) learned**:
 * Cases where the `this` keyword can be used
+
+------------
 
  ### Day 35 : July 28, Friday
  
@@ -266,6 +334,8 @@ Kinda off day. Went to my first meetup, it was a great experience. Learned about
 * `parentNode`
 * `event.target` properties
 
+------------
+
 ### Day 34 : July 27, Thursday
 **Today's Progress** : Did light coding today. Worked on the functions and escape from the console module.
 
@@ -278,7 +348,11 @@ Kinda off day. Went to my first meetup, it was a great experience. Learned about
 * HigherOrder functions and Callback functions
 * `.addEventListener()` , `setTimeOut()`, `forEach()` functions
 
+------------
+
 ### July 26, Wednesday : Had exam, so had to took an offday. Will continue tomorrow.
+
+------------
 
 ### Day 33 : July 25, Tuesday
 
@@ -294,6 +368,8 @@ Kinda off day. Went to my first meetup, it was a great experience. Learned about
 * Debugging a script
 * How to take user input  and then execute a function accordingly using `addEventListener`
 
+------------
+
  ### Day 32 : July 24, Monday
  
 **Today's Progress** : Continuing with the WatchNCode course. Learned about Objects, booleans, for Loops, array  traversal using for loop.
@@ -308,6 +384,9 @@ Kinda off day. Went to my first meetup, it was a great experience. Learned about
 * Use of `this` to refer to a property within an object.
 * booleans and method to toggle them
 * `for` loop and array traversal using it.
+
+------------
+
  ### Day 31 : July 23, Sunday
  
 **Today's Progress** : :fire: Started WatchNCode Javascript course. Did array module.
@@ -321,6 +400,7 @@ Kinda off day. Went to my first meetup, it was a great experience. Learned about
 * Changing a already defined var value inside the array
 * Removing item from array using `array.splice()`
 
+------------
 
 ### Day 30 : July 22, Saturday
 
@@ -331,11 +411,15 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 
 **Link to work** : [Fish-N-Chips](http://fishnchips.tk/)
 
+------------
+
 ### Day 29 : July 21, Friday
 
 **Today's Progress** : Site work is nearly done. Need to add some touchup and then compressing the images & It will be ready to be live. Will finish tonight
 
 **Thoughts** : I really want this to be over. I am not enjoying this. Can't wait to do coding in the editor. Guess, thats my way. Just a little more. And then, its Javascript, the language  with logic.
+
+------------
 
 ### Day 28 : July 20, Thursday
 
@@ -343,15 +427,21 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 
 **Thoughts** : Finished the header part of the site after so much of delibaration. Happy with the result. Now, its time to do the content part. Been a great learning experience so far.
 
+------------
+
  ### Day 27 : July 19, Wednesday
 **Today's Progress** : Worked on the site. Not satisfied with the layout design. Hopefully, the site will completed by tomorrow. 
 
 **Thoughts** : Trying different themes.  Finally, found a good thing, Elementor. It looks promising. On the coding side, hadn't code on editor for a week. Once this wordpress stage pass, it will be a coding bonanza. Let it be..
 
+------------
+
 ### Day 26 : July 18, Tuesday
 **Today's Progress** : Working on trying to create the restaurant website. Tweaking with various settings and options. Understood about the header part. Thinking about how to create the desired content layout. 
 
 **Thoughts** : :sweat: Frustration all around. Wordpress is too important to skip. Willl learn about making the front end now, Custom theme development, SEO will come later.
+
+------------
 
  ### Day 25 : July 17, Monday
  **Today's Progress** : Working on to setup the restaurant site on Wordpress. Getting hang of the options and settings. Hopefully will be completed by tomorrow. 
@@ -359,10 +449,14 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
  **Thoughts** : Wordpress is a big headache. Its so slow..... I feel I could make the sites faster using just HTML & CSS. Still have to learn. 
  Once the options are clear, Things would be easy.
  
+ ------------
+ 
  ### Day 24 : July 16, Sunday
  **Today's Progress** : Its a wordpress day. Setup various themes. Started working on Dad's blog. The strucutre is all good. Adding some content and some tinkering, and it'll be ready to go live. 
  
  **Thoughts** : Wordpress is quite tricky, untill you get your head around it. Tried many themes, there are all this prebuilt layouts and demos. It's a coginitive load. Finally, bought the X theme, will buy Jupiter, later. But for now, it's suffice. Its time to make some dummy sites for portfolio.
+ 
+ ------------
  
  ### Day 23 : July 15 , Saturday
 **Todays's Progress** : Setup wordpress on a droplet using digital ocean. Its quite a long process. With syntax, syntax and more syntax. Didn't understand probably the 80% of it. But, followed the tutorial and got it done. Its quite a useful skill to have. Also, almost done with the Wordpress course on treehouse. Will start building the site from tomorrow.  
@@ -372,7 +466,11 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 **Thing(s) learned**:
 * Setting up LAMP stack and Wordpress in Digital Ocean
 
+------------
+
 ### July 14, Friday : Missed  day. 
+
+------------
 
 ### Day 22 : July 13, Thursday
 
@@ -385,6 +483,8 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 * Themes and Plugins
 * User roles
 
+------------
+
  ### Day 21 : July 12, Wednesday
 **Todays's Progress** : Continued working on Wordpress course on Treehouse
 
@@ -394,6 +494,8 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 * Custom post types
 * Managing media in Wordpress
 
+------------
+
  ### Day 20 : July 11, Tuesday
  **Todays's Progress** : No coding today. Wrote and published the medium article. 
  
@@ -401,7 +503,12 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 
 **Link to work** : [Article](https://medium.com/@shovanchatterjee/100daysofcode-the-journey-of-first-3-weeks-3bccf2935c2c)
 
+------------
+
  ### July 10 , Monday : Off day.
+ 
+ ------------
+ 
  ### Day 19 : July 9, Sunday
  
 **Todays's Progress** : FInished and published the portfolio project late last night. Today started Wordpress course on Treehouse.com . Gone over the basics, setup XAMPP for local development.
@@ -411,6 +518,8 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 **Thing(s) learned**:
 * Setting database and user for wordpress
 * Categories and Tags
+
+------------
  
  ### Day 18 : July 8, Saturday
  
@@ -420,10 +529,14 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 
 **Thoughts** : Its looking good enough. Experimented with colors with this project. Stayed with gray as primary color and shades  of it. Used single font family to simplify the design process. Overall its a good experience. One thing need to work on, making the coding habit at a consistent time early in the day, rather than till the late night. So far, so good. Will write a medium article on monday about journey so far of first 20 days. 
 
+------------
+
  ### Day 17 : July 7, Friday
  **Todays's Progress** : Coded for 1 hour. Today worked on the portfolio-two site. the mobile view is nearly ready. Working on the clip path for the slanted effect. Got the CS50 certificate. Great achievemnet. That was an really life changing course. Building up the basics of CS.
 
 **Thoughts** : Horrible week this has been. Lots of missed. Probably the problem is I'm focusing too much on the project. THe optimal approach would be to just focus on sit and code for 1 hour daily. That's it. Its the better way.
+
+------------
 
  ### July 6 : Missed.
  
@@ -432,7 +545,11 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 
 **Thoughts** : Up and down and up and down.. its time to make some upppppps.. :chart_with_upwards_trend:
 
+------------
+
 ### July 3 & 4 : Missed.
+
+------------
  
  ### Day 15 : July 2, Sunday
  
@@ -440,15 +557,22 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 
 **Thoughts** : There had been some obstacles in the way. Mentally. But, the journey must go on and on and on. Obstacle is the way.
 
+------------
+
 ### July 1 : Missed. :disappointed:
 ### June 30 : Another one. Resistance  is coming back strong again. Fight off!! :punch: . Lets start the new month and second half of 2017 on a positive note.
 ### June 29 : Had an off day. 
+
+------------
+
 ### Day 14 : June 28, Wednesday
 **Todays's Progress** : Made the boilerplate for projects. It would make starting projects very easy. As it would bypass stage  of starting from scratch and setting  everything - "A recipe of procrastination"
 
 **Thoughts** : Had been using a boilerplate for projects. But that was for only HTML, CSS. This time added gulp tasks for SASS, BrowserSync, Autoprefix, Sourcemaps. Been using Livestyle for LiveReloading CSS, but with SASS, that wasn't working so, added BrowserSync. There had been some hiccup while setting up. Looked up on web , at the end done it. Its time to work on projects.
 
 **Link to work** : [Boilerplate for Front end projects](https://github.com/shovanch/project-boilerplate)
+
+------------
 
  ### Day 13 : June 27, Tuesday
 **Todays's Progress** : Designed the desktop view of the portfolio site. Will work on mobile view tomorrow and start coding it.
@@ -457,10 +581,14 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 
 **Link to work** : [Portfolio Design](http://i.imgur.com/LmKG2xb.png)
 
+------------
+
 ### Day 12 : June 26, Monday
 **Todays's Progress** : Light work today. Watched some Sass related videos on treehouse. Will start designing and coding the portfolio site tomorrow.
 
 **Thoughts** : There are lots of nitty-gritty details in Sass. But rather than only learning, its better to learn the basics and code and learn as needed along the way. So, thats the approach I'm gonna take. Will write a medium article tomorrow on First week experience of #100daysofcode.
+
+------------
 
  ### Day 11 : June 25: Sunday
 **Todays's Progress** : :metal: Completed the SASS course at treehouse. Lots of things to understand. Will practice by implementing them for better understanding.
@@ -475,6 +603,8 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 * Looping with @for to output columns
 * Storing values in maps 
 
+------------
+
  ### Day 10 : June 24, Saturday
 **Today's Progress** : 1 hour. Started SASS course on Treehouse. Learned about variables, mixin, include ...
 
@@ -485,53 +615,76 @@ Today, completes my 1st month of #100daysofcode. Now its time to learn JavaScrip
 * Nested selector and ampersand for parent reference.
 * Using mixin and @include for reusable code blocks
 * @extend and placeholder selectors. Be careful of unneccesary selector expansion.
+
+------------
  
  ### June 23 : Missed. Internet was down :thumbsdown:
+ 
+ ------------
  
  ### Day 09 : June 22, Thursday
 **Today's Progress** : 1.5 hours. Coded the flexbox app layout following the guide.
 
 **Thoughts** : The flexbox app layout is complete. There was a bit of reliance on the guide. To further learning, I will make another app layout using flexbox but of different design. Starting SASS from tomorrow. 
+
+------------
  
  ### Day 08 : June 21, Wednesday
 **Today's Progress** : 30 minutes. Completed the exercises at flexbox froggy. Setup sublime text for SCSS. 
 
 **Thoughts** : Now, I can say that I understand flexbox concepts. Tomorrow, will work on flexbox app design and then, starting SASS.
 
+------------
+
  ### Day 07 : June 20, Tuesday
 **Today's Progress** : 30 minutes. Completed Flexbox.io course.
 
 **Thoughts** : Progress is slow. Need to rev up.
+
+------------
 
  ### Day 06 : June 19, Monday
 **Today's Progress** : 30 minutes. Practiced with implementing layouts from flexbox.io course. 
 
 **Thoughts** : Will work on 2-3 layouts with then, moving on to learning SASS.
 
+------------
+
  ### Day 05 : June 18, Sunday
 **Today's Progress** : 30 minutes. Worked to implement the navbar using flexbox. Faced some difficulities, will work on smoothing them out.
 
 **Thoughts** : Will work tomorrow, on implementing the real things - navbar, layout. Its better to learn that way.
 
+------------
 
 ### June 17 : Didn't code today. Setup personalized email throught zohomail. It was worth the effort.
 
+------------
 
 ### Day 04 : June 16
 **Today's Progress** : Worked on following the flexbox articles. Tomorrow will start implementing the concepts.
 
 **Thoughts** : Flexbox is getting clear. Not much things to learn though .but very useful. Now need to put the concepts into actual layout.
 
+------------
+
 ### Missed 14 & 15 June. 
+
+------------
+
 ### Day 03 : June 13
 **Today's Progress** : Read up on the git slideshow. Understood the basic, essential commands. Those seems to be suffice for now. If needed will go into deeper later. Started the wesbos flexbox course, near completion stage.
 
 **Thoughts** : Regarding flexbox, it seems to make lot of layout quite easy to make. But there are quite a few new concpets to wrap head around. Will practice implementing them. Starting Sass from tomorrow also. Eager to implement them in portfolio V2.
 
+------------
+
 ### Day 02 : June 12
 **Today's Progress** : Worked on the git course. Learned the commands. The concepts of Git are coming along nicely. Will use git from command line from now on, it seems more efficient. 
 
 **Thoughts** : Tomorrow will give a deeper look into git workflow. Then, moving on to learn flexbox. Exciting times!
+
+------------
 
 ### Day 01 : June 11, 2017
 **Today's Progress**: Worked on Chrome devtools course.
