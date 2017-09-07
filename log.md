@@ -12,6 +12,18 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### Day 61 : September 7, Thursday
+ 
+ **Today's Progress** : Working on the random-quote-generator. Implemented the design and display quotes from API feature. 
+ 
+ **Thoughts** : Great feeling to see the design becoming a live site. And Its me who did it, I feel like a magician. Design - done, Display Quotes - done. Now, need to implement the share quotes to twitter feature. There's also a problem with the quote container, it go back to empty position, between the ajax calls.Fix that one. Also need to make the quote change smooth, it feels clunky now.Tomorrow target - Complete this project. Start YDKJS:1 , WesBos:ES6.
+ 
+**Thing(s) learned** :
+* Getting the svg value from Figma and converting them into SVG image. Coool!!!
+
+**Link to work** : [Random-quotes repo](https://github.com/shovanch/random-quote-site) // [Live Site](https://shovanch.com/random-quote-site/)
+
+ 
  -----------
  ### Day 60 : September 6, Wednesday
  
