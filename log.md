@@ -12,6 +12,17 @@
 **Link to work** :
 **Thing(s) learned**:
  -->
+ ### September 9, Saturday
+ Coding? NO. Learned about CS? Yes. Went to college. Learned about Singly linked list, bubble sort, queue in Data structures, and class inheritance in C++. Not bad. Tomorrow going to be same story. Had specially arranged class tomorrow!!!! who the hell do classes on SUNDAY :expressionless:. Last few days has been quite low in coding. Hoping to do blitzkrieg from monday. Will start Javascript30 next week.
+   The full-stack path reached 100+ stars and trending in Position 3 in Github. One of the best days of my life. Hope more such moments come.
+ 
+  -----------
+  
+ ### September 8, Friday
+ No coding today. Had to go to eye doctor for routine checkup. Spectacles, the quintessential sign of the nerd 🤓
+ 
+ -----------
+ 
  ### Day 61 : September 7, Thursday
  
  **Today's Progress** : Working on the random-quote-generator. Implemented the design and display quotes from API feature. 
@@ -23,7 +34,6 @@
 
 **Link to work** : [Random-quotes repo](https://github.com/shovanch/random-quote-site) // [Live Site](https://shovanch.com/random-quote-site/)
 
- 
  -----------
  ### Day 60 : September 6, Wednesday
  
