@@ -8,7 +8,7 @@
 | :------: | ------ | ------ | ------------ | :-------: |
 |  **DONE** | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX | [Certificate](https://courses.edx.org/certificates/adee986180cf409097faacc565ba722d) |***11 JUNE***|
 | **DONE**  | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course | [Codepens](https://codepen.io/shovanch/)   |  ***MAY***  |
-|  **DONE** | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) | [Live Site](https://shovanch.com/my-portfolio/)  | ***10 JUN***   |
+|  **DONE** | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) | [Live Site](https://shovanch.com/portfolio-one/)  | ***10 JUN***   |
 | **DONE**  | Course | Learn [Git](https://try.github.io/levels/1/challenges/1) |  [Practice Repo](https://github.com/shovanch/practice-git) |  ***13 JUN***  |
 | **DONE**   | Course | Learn flexbox from [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) | [App layout](https://shovanch.com/flexbox-app-layout/)  | ***22 JUN***   |
 | **DONE**   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) | -----  |  ***26 JUN***  |
@@ -16,8 +16,8 @@
 | **DONE**  | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) | -----  | ***15 JUL***    |
 | **DONE**  | Project | Build a website using Wordpress | [Site](http://fishnchips.tk)  |  ***22 JUL***  |
 | **DONE** | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) | [Course work](https://codepen.io/shovanch/full/ZJEQbV/) |  ***29 JUL***  |
-|   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) [Continued Reading...]|   |    |
-|   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
+|**DOING**   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) [Continued Reading...]|   |    |
+| **DOING**  | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 | **DONE**  | Course | Learn DOM manipulation | [Course Project](https://codepen.io/shovanch/full/OjmBNO/)  |  ***15 AUG***  |
 | **DONE**  | Project | Make a todo list webapp | [Site Link](https://shovanch.com/todo-list/)  |  ***30 AUG***  |
 | **DONE**  | Course | Learn AJAX |   |  ***5 SEPT***  |
