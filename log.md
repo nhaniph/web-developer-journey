@@ -5,13 +5,19 @@
 **Target** : ***Learn and Code for atleast 1 hour everyday for 100 days***
 
 **Start Date** :  ***June 11***
-<!--Day :
-------
-**Today's Progress** :
-**Thoughts** :
-**Link to work** :
+
+ -----------
+### Day 62 : September 19, Tuesday
+**Today's Progress**: Back to the challenge after a break. Started reading YDKJS: Up and Going. Nearly finished with it.
+
+**Thoughts**: Had a break in the middle. Will continue where I left off. Worked on some documentation related issue in the freeCodeCamp repo. Took on a freeCodeCamp issue, that involves database and back-end. Its bit out of my comfort zone. Gonna give all in. Even if, I cound't solve it, will learn things. And that's the most important thing. Getting out of comfort zone is always an oppurtunity for learning. Will finish Up and Going tonight. Then, start with Mongo, Node, Express. See how far can I go this problem. 
+
 **Thing(s) learned**:
- -->
+- Value type coercion in JS: Implicit and explicit
+- Cases where to use which, == or === (Strict equality)
+
+ -----------
+ 
  ### September 9, Saturday
  Coding? NO. Learned about CS? Yes. Went to college. Learned about Singly linked list, bubble sort, queue in Data structures, and class inheritance in C++. Not bad. Tomorrow going to be same story. Had specially arranged class tomorrow!!!! who the hell do classes on SUNDAY :expressionless:. Last few days has been quite low in coding. Hoping to do blitzkrieg from monday. Will start Javascript30 next week.
    The full-stack path reached 100+ stars and trending in Position 3 in Github. One of the best days of my life. Hope more such moments come.
