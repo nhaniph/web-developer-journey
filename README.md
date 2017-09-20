@@ -20,8 +20,8 @@
 | **DOING**  | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 | **DONE**  | Course | Learn DOM manipulation | [Course Project](https://codepen.io/shovanch/full/OjmBNO/)  |  ***15 AUG***  |
 | **DONE**  | Project | Make a todo list webapp | [Site Link](https://shovanch.com/todo-list/)  |  ***30 AUG***  |
-| **DONE**  | Course | Learn AJAX |   |  ***5 SEPT***  |
-|   | Course | Learn CSS Grid |   |    |
+| **DONE**  | Course | Learn AJAX | ------  |  ***5 SEPT***  |
+| **DONE**  | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) | ------  |  ***20 SEPT*** |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
@@ -30,12 +30,11 @@
 |   | Course | [Javascript30](https://javascript30.com/) |   |    |
 |   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |   | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) |   |    |
-|   | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) |   |    |
+|   | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) |   |  |
 |   | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) |   |    |
 |   | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
 |   | Milestone | FreeCodeCamp Front End Certificate |   |    |
 |   | Course | [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) |   | 
-|   | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   |    |
 |   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
 |   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
 |   | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) |   |    |
