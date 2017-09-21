@@ -7,6 +7,18 @@
 **Start Date** :  ***June 11***
 
  -----------
+ 
+ ### Day 64 : September 21, Thursday
+ **Today's Progress** : Started WesBos's ES6 for everyone. Great cource. Nicely explained. Looking forward to some great learning.
+ 
+ **Thoughts** : Hoping to finish the course by tonight. Gotta speed em up. Working on the freeCodeCamp issue. Its great to interact with code written by other programmers. So much to learn. Found the way to add the button and modal. Need to tackle to backend part now. Excited. Feeling like a magician, conjuring things by typing code. Lets march on forward. 
+ 
+ -----------
+ 
+### Day 63 : September 20, Wednesday
+**Today's Progress** : Not much work today. Finished YDKJS: Up & Going. Took some notes. Will come handy. Made the updated contributin GIF for the pull request to FreeCodeCamp/guides. It got merged. Moving on forward.
+ 
+ -----------
 ### Day 62 : September 19, Tuesday
 **Today's Progress**: Back to the challenge after a break. Started reading YDKJS: Up and Going. Nearly finished with it.
 
