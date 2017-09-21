@@ -11,22 +11,22 @@
 |  **DONE** | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) | [Live Site](https://shovanch.com/portfolio-one/)  | ***10 JUN***   |
 | **DONE**  | Course | Learn [Git](https://try.github.io/levels/1/challenges/1) |  [Practice Repo](https://github.com/shovanch/practice-git) |  ***13 JUN***  |
 | **DONE**   | Course | Learn flexbox from [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) | [App layout](https://shovanch.com/flexbox-app-layout/)  | ***22 JUN***   |
-| **DONE**   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) | -----  |  ***26 JUN***  |
+| **DONE**   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) | ------  |  ***26 JUN***  |
 | **DONE**  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass | [Site link](https://shovanch.com/portfolio-two/)  |  ***8 JUL***  |
-| **DONE**  | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) | -----  | ***15 JUL***    |
+| **DONE**  | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) | ------ | ***15 JUL***    |
 | **DONE**  | Project | Build a website using Wordpress | [Site](http://fishnchips.tk)  |  ***22 JUL***  |
 | **DONE** | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) | [Course work](https://codepen.io/shovanch/full/ZJEQbV/) |  ***29 JUL***  |
-|**DOING**   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) [Continued Reading...]|   |    |
-| **DOING**  | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
+|***DOING***   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) [Continued Reading...]|   |    |
+| ***DOING***  | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 | **DONE**  | Course | Learn DOM manipulation | [Course Project](https://codepen.io/shovanch/full/OjmBNO/)  |  ***15 AUG***  |
 | **DONE**  | Project | Make a todo list webapp | [Site Link](https://shovanch.com/todo-list/)  |  ***30 AUG***  |
 | **DONE**  | Course | Learn AJAX | ------  |  ***5 SEPT***  |
 | **DONE**  | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) | ------  |  ***20 SEPT*** |
+| ***DOING***  | Course | Learn ES6 - Wes Bos's [ES6 for Everyone](https://es6.io/) | 
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
-|   | Course | Learn ES6 - Wes Bos's [ES6 for Everyone](https://es6.io/) | 
 |   | Course | [Javascript30](https://javascript30.com/) |   |    |
 |   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |   | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) |   |    |
