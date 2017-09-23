@@ -5,13 +5,38 @@
 **Target** : ***Learn and Code for atleast 1 hour everyday for 100 days***
 
 **Start Date** :  ***June 11***
+<!-- 
+### Day  : 
+ **Today's Progress** :
+ **Thoughts** : 
+**Thing(s) learned** :
+**Link to work** : 
+-->
 
+ -----------
+ 
+ ### Day 65 : September 22, Friday
+ **Today's Progress** : Working on the WesBos ES6 course. Making slow progress, taking the information bit by bit. Worked on the FCC issue. Added the button but for some api related reason , its not working. 
+ 
+ **Thoughts** : Would pass on the FCC issue. It too much of out of my limits. Hopefully will learn Node, Mongo soon. Then contribute on issues like this. Althought, I haven't been succed, It has been great learning experience on this issue. Learned to setup a project locally and one as big as FCC. Also, saw the codebase that runs the FCC. Will be helpful in working on issues later.
+ Also, got invited to the Chingu voyage 2. Team announcement tomorrow, pretty excited to work with a team.
+ 
+**Thing(s) learned** :
+ - Using Arrow functions `()=>{}` with different cases like implicit, explicit returns
+ - When not to use arrow functions
+ - Arrow functions and this : this under arrow functions is bind to the parent scope
+ - default fuction parameters
+ 
  -----------
  
  ### Day 64 : September 21, Thursday
  **Today's Progress** : Started WesBos's ES6 for everyone. Great cource. Nicely explained. Looking forward to some great learning.
  
  **Thoughts** : Hoping to finish the course by tonight. Gotta speed em up. Working on the freeCodeCamp issue. Its great to interact with code written by other programmers. So much to learn. Found the way to add the button and modal. Need to tackle to backend part now. Excited. Feeling like a magician, conjuring things by typing code. Lets march on forward. 
+ 
+ **Thing(s) learned** :
+ - Use of `const` and `let` and their scope (its block scoped)
+ - `Temporal Dead Zone` , a variable can't be referenced before its declared & defined.
  
  -----------
  
