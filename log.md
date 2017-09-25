@@ -10,9 +10,26 @@
  **Today's Progress** :
  **Thoughts** : 
 **Thing(s) learned** :
-**Link to work** : 
+**Link(s) to work** : 
 -->
+ -----------
+ 
+ ### Day 66 : September 25, Monday
+**Today's Progress** : Worked on FCC issues. 1st issue is on FreeCodeCamp/guides repo. Another one on FreeCodeCamp base repo. Made 2 pull requests. Hopefully, they get merged. 
 
+ **Thoughts** : The first issue wasn't much of a problem. Fixed the anchor tags, added syntax highlighting to the codeblocks in .md files. As for the second one, It was quite rought. First, had to face the struggle to setup the repo locally, then getting email to work. Then, working on the password logic. It was lots of reading too. Min. 50 tabs had been opened at one time. In the end, happy to made the pull request. Hope it gets merged. Nothing is more sweeter than success after doing hard work.
+ 
+**Thing(s) learned** :
+- How to work with HTML5 Constraint API to do client side form validation
+
+**Link(s) to work** :  
+- [PR I : FCC/guides](https://github.com/freeCodeCamp/guides/pull/392)
+- [PR II : FCC/base repo](https://github.com/freeCodeCamp/freeCodeCamp/pull/15916)
+ -----------
+ 
+ ### Septemer 23 - 24, Saturday - Sunday
+ Couldn't code much. Spent the most of the day at college. Although, even If didn't code. Learnt about CS stuffs at class. Polish notation, Quick sort, Sparse Matrix Operations, Circular single linked list, C++ templates. Lots of heavy stuff. Doing this, really helps with computational thinking and problem solving.  At chingu cohorts, the team has been setup. Pretty excited to work on a collaborative project with other coders. Lots to learn.
+ 
  -----------
  
  ### Day 65 : September 22, Friday
