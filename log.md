@@ -13,6 +13,12 @@
 **Link(s) to work** : 
 -->
  -----------
+ ### Day 67 : September 26, Tuesday 
+ **Today's Progress** : Not much of coding today. Had first team meeting for chingu voyage project. Great discussion. Looking forward to have successful project.
+ 
+ **Thoughts** : Its time to learn React. The Web Dev path needs a bit of detour, its not longer linear as I thought it would be, No problem. It's better to be flexible, And be ready to face the challenge as they come. Part of a developer. It would be great experience. Learning React and applying it in a full fledged project. Getting out of comfort zone. Let's do it. Going to do read up on ES6, then starting with React. Excited.
+
+ -----------
  
  ### Day 66 : September 25, Monday
 **Today's Progress** : Worked on FCC issues. 1st issue is on FreeCodeCamp/guides repo. Another one on FreeCodeCamp base repo. Made 2 pull requests. Hopefully, they get merged. 
