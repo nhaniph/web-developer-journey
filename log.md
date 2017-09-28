@@ -13,6 +13,9 @@
 **Link(s) to work** : 
 -->
  -----------
+ ### September 27, Wednesday
+ No coding today. Will count as missed day.
+ -----------
  ### Day 67 : September 26, Tuesday 
  **Today's Progress** : Not much of coding today. Had first team meeting for chingu voyage project. Great discussion. Looking forward to have successful project.
  
