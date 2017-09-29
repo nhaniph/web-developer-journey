@@ -13,8 +13,20 @@
 **Link(s) to work** : 
 -->
  -----------
- ### September 27, Wednesday
- No coding today. Will count as missed day.
+ ### Day 68 : September 29, Friday
+ **Today's Progress** : We are back in the game. Started JS30. Did first 3 modules. Learned lots of new concepts. Reading React documentation to get started with React. Exciting times.
+ 
+ **Thoughts** : Been waiting long to start JS30. The lessons are fully worth it. Great journey forward. Also, excited for Hacktoberfest to start. It's going to be awesome.
+ 
+**Thing(s) learned** : Lots, will make a log in each folder of JS30. That way it would be better organized.
+
+**Link(s) to work** :  [JS30 Repo](https://github.com/shovanch/JavaScript30)
+
+ -----------
+ 
+ ### September 27- 28 , Wed - Thursday
+ No coding. Will count as missed days.
+ 
  -----------
  ### Day 67 : September 26, Tuesday 
  **Today's Progress** : Not much of coding today. Had first team meeting for chingu voyage project. Great discussion. Looking forward to have successful project.
