@@ -13,6 +13,23 @@
 **Link(s) to work** : 
 -->
  -----------
+ ### Day 70 : October 1, Sunday
+ **Today's Progress** :
+ 
+ **Thoughts** : 
+ 
+ **Thing(s) learned** :
+ 
+ -----------
+ ### Day  69 : September 30, Saturday
+ **Today's Progress** : Learning react. Doing WesBos react course. Also, read various react documentation. Slowly starting to get the whole concept.
+ 
+ **Thoughts** : The Github streak been broken. Couldn't commit yesterday. Net was down. Weird kinda feeling. Lets move on.<br>
+ Learning react at full pace. Concepts like components, props, the basic idea behind react is getting clear. States seems kinda weird. That one will take some time for sure.
+ 
+**Thing(s) learned** :
+- Fundamental ideas of React like Components, imports, render(), props. 
+ -----------
  ### Day 68 : September 29, Friday
  **Today's Progress** : We are back in the game. Started JS30. Did first 3 modules. Learned lots of new concepts. Reading React documentation to get started with React. Exciting times.
  
