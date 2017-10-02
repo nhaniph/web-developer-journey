@@ -13,13 +13,21 @@
 **Link(s) to work** : 
 -->
  -----------
- ### Day 70 : October 1, Sunday
+ 
+ ### Day 72 : October 3, Tuesday 
  **Today's Progress** :
  
  **Thoughts** : 
  
  **Thing(s) learned** :
  
+ **Link(s) to work** : 
+ 
+ -----------
+ ### Day 70 - 71  : October 1 - 2,  Sun - Monday
+ **Today's Progress** : Going to put this together. It was all about Open Source. Submitted 7 PRs. Personal Record. Yayy!!. It was quite exciting. Submitted the sendgrid form to get hacktoberfest swags. Eagerly waiting for them. It would be awesome when it reaches. My hacktoberfest is completed on the very first day. WELL DONE. <br>
+ Doing JS30. Finished with first 3 modules. Enjoying it. Setup the dev env for the chrome extension project. Now its time to code it. Lets do it. 
+  
  -----------
  ### Day  69 : September 30, Saturday
  **Today's Progress** : Learning react. Doing WesBos react course. Also, read various react documentation. Slowly starting to get the whole concept.
