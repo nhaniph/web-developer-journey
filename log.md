@@ -13,6 +13,8 @@
 **Link(s) to work** :
 -->
 -----------
+### [Off Day] October 5, Thursday
+Really sick with fever. Couldn't code much. So here goes another one. Hoping to recover  and get back to coding ASAP. Did a bit of reading on React, that's it.
 
 ### [Off Day] October 4, Wednesday
  **Today's Progress** : Will count as a off day. No JS30 work today. Been a little tired. Sitting whole day in front of chair creating back issues. Typical programmer's problem. Worked on the React extension project. Hoping to implement the time function by this week.
