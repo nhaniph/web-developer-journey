@@ -23,7 +23,8 @@
 | **DONE**  | Course | Learn AJAX | ------  |  ***5 SEPT***  |
 | **DONE**  | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) | ------  |  ***20 SEPT*** |
 | ***Doing***  | Course | Learn ES6 - Wes Bos's [ES6 for Everyone](https://es6.io/) |   |    |  
-| ***Doing***  | Course | [Javascript30](https://javascript30.com/) |   |    |
+| ***Doing***  | Project | [Javascript30](https://javascript30.com/) |   |    |
+|   | Project | [100 Days Of CSS](https://100dayscss.com/) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
