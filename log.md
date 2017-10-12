@@ -13,6 +13,11 @@
 **Link(s) to work** :
 -->
 -----------
+
+### Day 73 : October 12, Thursday
+ **Today's Progress** : Back to coding after a week. Been seriously ill. Feels great to come back. Going to continue where I left off. 73 days left to Christmas vacation. Hoping to complete least the React path before that. <br> Started the #100DaysOfCSS. Great way to work on CSS skills, quite useful as a front-end developer. Lets see how many of this can be done. Worked on time component for the React Extension
+
+-----------
 ### [Off Day] October 5, Thursday
 Really sick with fever. Couldn't code much. So here goes another one. Hoping to recover  and get back to coding ASAP. Did a bit of reading on React, that's it.
 
