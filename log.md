@@ -13,9 +13,20 @@
 **Link(s) to work** :
 -->
 -----------
+### Day 74 :
+ **Today's Progress** :
+ 
+ **Thoughts** :
+ 
+**Thing(s) learned** :
 
+**Link(s) to work** :
+
+-----------
 ### Day 73 : October 12, Thursday
  **Today's Progress** : Back to coding after a week. Been seriously ill. Feels great to come back. Going to continue where I left off. 73 days left to Christmas vacation. Hoping to complete least the React path before that. <br> Started the #100DaysOfCSS. Great way to work on CSS skills, quite useful as a front-end developer. Lets see how many of this can be done. Worked on time component for the React Extension
+ 
+**Link(s) to work** : [#DAY1 Pen](https://codepen.io/shovanch/full/eGjLyw)
 
 -----------
 ### [Off Day] October 5, Thursday
