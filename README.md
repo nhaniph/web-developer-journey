@@ -17,13 +17,13 @@
 | **DONE**  | Project | Build a website using Wordpress | [Site](http://fishnchips.tk)  |  ***22 JUL***  |
 | **DONE** | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) | [Course work](https://codepen.io/shovanch/full/ZJEQbV/) |  ***29 JUL***  |
 |***On Hold***   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) [Continued Reading...]|   |    |
-| ***Doing***  | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
+| ***On Hold***  | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 | **DONE**  | Course | Learn DOM manipulation | [Course Project](https://codepen.io/shovanch/full/OjmBNO/)  |  ***15 AUG***  |
 | **DONE**  | Project | Make a todo list webapp | [Site Link](https://shovanch.com/todo-list/)  |  ***30 AUG***  |
 | **DONE**  | Course | Learn AJAX | ------  |  ***5 SEPT***  |
 | **DONE**  | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) | ------  |  ***20 SEPT*** |<!--| ***Doing***  | Course | Learn ES6 - Wes Bos's [ES6 for Everyone](https://es6.io/) |    |    |--> 
 | ***Doing***  | Project | [Javascript30](https://javascript30.com/) |   | ***SEPT 29 -***   |
-|   | Project | [100 Days Of CSS](https://100dayscss.com/) |    |  ***OCT 13 -***  |
+|  ***Doing***   | Project | [100 Days Of CSS](https://100dayscss.com/) |    |  ***OCT 13 -***  |
 |   | Course | [Udemy - Advanced CSS Course](https://www.udemy.com/advanced-css-and-sass/) |    |   |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
