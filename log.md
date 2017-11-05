@@ -13,15 +13,18 @@
 **Link(s) to work** :
 -->
 -----------
-### Day 74 :
- **Today's Progress** :
+### Day 74 : November 5, Sunday
+ **Today's Progress** : Back after a longgggg break. Continuing from where I left off, Did module #7 of JS30 on array methods - some(), every(), find(), findIndex(). Lets build up the momentum. 🚀
  
- **Thoughts** :
+ **Thoughts** : 46 Days to go. Had to take the break due semester exam. Now I am back. Goal is to make completed projects as many as possible before the year end. Lets do this.
  
 **Thing(s) learned** :
+- `array.some()`, `array.every()`
+- `array.find()`, `array.findIndex()`
 
-**Link(s) to work** :
+**Link(s) to work** : [JS30 Repo](https://github.com/shovanch/JavaScript30)
 
+---
 -----------
 ### Day 73 : October 12, Thursday
  **Today's Progress** : Back to coding after a week. Been seriously ill. Feels great to come back. Going to continue where I left off. 73 days left to Christmas vacation. Hoping to complete least the React path before that. <br> Started the #100DaysOfCSS. Great way to work on CSS skills, quite useful as a front-end developer. Lets see how many of this can be done. Worked on time component for the React Extension
