@@ -6,24 +6,24 @@
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  **DONE** | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX | [Certificate](https://courses.edx.org/certificates/adee986180cf409097faacc565ba722d) |***11 JUNE***|
-| **DONE**  | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course | [Codepens](https://codepen.io/shovanch/)   |  ***MAY***  |
-|  **DONE** | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) | [Live Site](https://shovanch.com/portfolio-one/)  | ***10 JUN***   |
-| **DONE**  | Course | Learn [Git](https://try.github.io/levels/1/challenges/1) |  [Practice Repo](https://github.com/shovanch/practice-git) |  ***13 JUN***  |
-| **DONE**   | Course | Learn flexbox from [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) | [App layout](https://shovanch.com/flexbox-app-layout/)  | ***22 JUN***   |
-| **DONE**   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) | ------  |  ***26 JUN***  |
-| **DONE**  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass | [Site link](https://shovanch.com/portfolio-two/)  |  ***8 JUL***  |
-| **DONE**  | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) | ------ | ***15 JUL***    |
-| **DONE**  | Project | Build a website using Wordpress | [Site](http://fishnchips.tk)  |  ***22 JUL***  |
-| **DONE** | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) | [Course work](https://codepen.io/shovanch/full/ZJEQbV/) |  ***29 JUL***  |
-|***On Hold***   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) [Continued Reading...]|   |    |
-| ***On Hold***  | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
-| **DONE**  | Course | Learn DOM manipulation | [Course Project](https://codepen.io/shovanch/full/OjmBNO/)  |  ***15 AUG***  |
-| **DONE**  | Project | Make a todo list webapp | [Site Link](https://shovanch.com/todo-list/)  |  ***30 AUG***  |
-| **DONE**  | Course | Learn AJAX | ------  |  ***5 SEPT***  |
-| **DONE**  | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) | ------  |  ***20 SEPT*** |<!--| ***Doing***  | Course | Learn ES6 - Wes Bos's [ES6 for Everyone](https://es6.io/) |    |    |--> 
-| ***Doing***  | Project | [Javascript30](https://javascript30.com/) |   | ***SEPT 29 -***   |
-|  ***Doing***   | Project | [100 Days Of CSS](https://100dayscss.com/) |    |  ***OCT 13 -***  |
+|  **** | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX | [Certificate](https://courses.edx.org/certificates/adee986180cf409097faacc565ba722d) |******|
+| ****  | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course | [Codepens](https://codepen.io/shovanch/)   |  ***MAY***  |
+|  **** | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) | [Live Site](https://shovanch.com/portfolio-one/)  | ******   |
+| ****  | Course | Learn [Git](https://try.github.io/levels/1/challenges/1) |  [Practice Repo](https://github.com/shovanch/practice-git) |  ***13 JUN***  |
+| ****   | Course | Learn flexbox from [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) | [App layout](https://shovanch.com/flexbox-app-layout/)  | ***22 JUN***   |
+| ****   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) | ------  |  ******  |
+| ****  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass | [Site link](https://shovanch.com/portfolio-two/)  |  ***8 JUL***  |
+| ****  | Course | Learn Wordpress for freelancing  - [Team Treehouse](https://teamtreehouse.com/tracks/wordpress-development) | ------ | ***15 JUL***    |
+| ****  | Project | Build a website using Wordpress | [Site](http://fishnchips.tk)  |  ******  |
+| **** | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) | [Course work](https://codepen.io/shovanch/full/ZJEQbV/) |  ******  |
+|******   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) [Continued Reading...]|   |    |
+| ******  | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
+| ****  | Course | Learn DOM manipulation | [Course Project](https://codepen.io/shovanch/full/OjmBNO/)  |  ******  |
+| ****  | Project | Make a todo list webapp | [Site Link](https://shovanch.com/todo-list/)  |  ******  |
+| ****  | Course | Learn AJAX | ------  |  ******  |
+| ****  | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) | ------  |  ***20 SEPT*** |<!--| ***Doing***  | Course | Learn ES6 - Wes Bos's [ES6 for Everyone](https://es6.io/) |    |    |--> 
+| ******  | Project | [Javascript30](https://javascript30.com/) |   | *** -***   |
+|  ******   | Project | [100 Days Of CSS](https://100dayscss.com/) |    |  ***O -***  |
 |   | Course | [Udemy - Advanced CSS Course](https://www.udemy.com/advanced-css-and-sass/) |    |   |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
